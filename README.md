@@ -1,5 +1,8 @@
-# Daily Stoic Quote
+<h1 align="center">Stoic Quote Of The Day</h1>
 
-"III. Hippocrates having cured many sicknesses, fell sick himself and died."
+<p align="center"><em>Wednesday, November 06, 2024</em></p>
 
-— Marcus Aurelius
+<p align="center">
+  <em>"Free is the person who lives as he wishes and cannot be coerced, impeded or compelled, whose impulses cannot be thwarted, who always gets what he desires and never has to experience what he would rather avoid."</em><br>
+  <strong>— Epictetus</strong>
+</p>
