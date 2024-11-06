@@ -1,2 +1,5 @@
-# Stoic-Quote-Of-The-Day
-Daily Stoic Quotes Using GitHub Scheduled Actions
+# Daily Stoic Quote
+
+"III. Hippocrates having cured many sicknesses, fell sick himself and died."
+
+— Marcus Aurelius
