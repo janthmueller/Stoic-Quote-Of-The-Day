@@ -5,18 +5,21 @@ on:
     - cron: "0 0 * * *"  # Runs daily at midnight
   workflow_dispatch:     # Allows manual triggering
 
+permissions:
+  contents: write    # Grant write permissions to push changes
+
 jobs:
   report:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
-        
+
       - name: Get random quote
         run: |
           response=$(curl -s https://stoic-quotes.com/api/quote)
-          quote=$(echo "$response" | jq -r '.text')
-          author=$(echo "$response" | jq -r '.author')
+          quote=$(echo "$response" | grep -oP '(?<="text":")[^"]*')
+          author=$(echo "$response" | grep -oP '(?<="author":")[^"]*')
           echo -e "# Daily Stoic Quote\n\n\"$quote\"\n\n— $author" > README.md
           cat README.md
         timeout-minutes: 2
