@@ -11,10 +11,7 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
-
-      - name: Install jq
-        run: sudo apt-get install jq
-
+        
       - name: Get random quote
         run: |
           response=$(curl -s https://stoic-quotes.com/api/quote)
