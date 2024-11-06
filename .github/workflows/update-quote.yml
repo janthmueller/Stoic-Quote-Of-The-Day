@@ -1,4 +1,4 @@
-name: GitHub Self-Updating Repository Demo
+name: GitHub Self-Updating Stoic Quote
 
 on:
   schedule:
@@ -20,7 +20,11 @@ jobs:
           response=$(curl -s https://stoic-quotes.com/api/quote)
           quote=$(echo "$response" | grep -oP '(?<="text":")[^"]*')
           author=$(echo "$response" | grep -oP '(?<="author":")[^"]*')
-          echo -e "# Daily Stoic Quote\n\n\"$quote\"\n\n— $author" > README.md
+          date=$(date +"%A, %B %d, %Y")  # Format the current date
+          # Write formatted content to README.md
+          echo -e '<h1 align="center">Stoic Quote Of The Day</h1>\n' > README.md
+          echo -e "<p align=\"center\"><em>$date</em></p>\n" >> README.md
+          echo -e '<p align="center">\n  <em>"'"$quote"'"</em><br>\n  <strong>— '"$author"'</strong>\n</p>' >> README.md
           cat README.md
         timeout-minutes: 2
 
