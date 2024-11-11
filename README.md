@@ -1,8 +1,8 @@
 <h1 align="center">Stoic Quote Of The Day</h1>
 
-<p align="center"><em>Sunday, November 10, 2024</em></p>
+<p align="center"><em>Monday, November 11, 2024</em></p>
 
 <p align="center">
-  <em>"Do what you will. Even if you tear yourself apart, most people will continue doing the same things."</em><br>
-  <strong>— Marcus Aurelius</strong>
+  <em>"Peace you can claim for yourself without being disliked by anyone, without any sense of loss, and without any pangs of spirit."</em><br>
+  <strong>— Seneca</strong>
 </p>
