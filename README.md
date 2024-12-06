@@ -1,8 +1,8 @@
 <h1 align="center">Stoic Quote Of The Day</h1>
 
-<p align="center"><em>Thursday, December 05, 2024</em></p>
+<p align="center"><em>Friday, December 06, 2024</em></p>
 
 <p align="center">
-  <em>"Despise everything that useless toil creates as an ornament and an object of beauty. And reflect that nothing except the soul is worthy of wonder; for to the soul, if it be great, naught is great."</em><br>
-  <strong>— Seneca</strong>
+  <em>"The philosopher's lecture room is a 'hospital': you ought not to walk out of it in a state of pleasure, but in pain; for you are not in good condition when you arrive."</em><br>
+  <strong>— Epictetus</strong>
 </p>
