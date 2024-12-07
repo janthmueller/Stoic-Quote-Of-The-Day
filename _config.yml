@@ -1,13 +1,17 @@
+name: ""
 title: null
 author:
   name: "Jan T. Müller"
   email: "mail@jantmueller.com"
 
-github_username: janthmueller
-linkedin_username: jantmueller
-
 remote_theme: jekyll/minima
 plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-remote-theme
+
 minima:
   skin: dark
+  social_links:
+    github: janthmueller
+    linkedin: jantmueller
