@@ -1,3 +1,7 @@
 name: ""
 title: null
-show_source: false
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: dark
