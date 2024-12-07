@@ -6,33 +6,40 @@ on:
   workflow_dispatch:     # Allows manual triggering
 
 permissions:
-  contents: write    # Grant write permissions to push changes
+  contents: write  # Grant write permissions
+
+env:
+  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
 jobs:
-  report:
+  update-quote:
     runs-on: ubuntu-latest
+
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
 
-      - name: Get random quote
-        run: |
-          response=$(curl -s https://stoic-quotes.com/api/quote)
-          quote=$(echo "$response" | grep -oP '(?<="text":")[^"]*')
-          author=$(echo "$response" | grep -oP '(?<="author":")[^"]*')
-          date=$(date +"%A, %B %d, %Y")  # Format the current date
-          # Write formatted content to README.md
-          echo -e '<h1 align="center">Stoic Quote Of The Day</h1>\n' > README.md
-          echo -e "<p align=\"center\"><em>$date</em></p>\n" >> README.md
-          echo -e '<p align="center">\n  <em>"'"$quote"'"</em><br>\n  <strong>— '"$author"'</strong>\n</p>' >> README.md
-          cat README.md
-        timeout-minutes: 2
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11" # or your preferred Python version
 
-      - name: Push to repository
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run script to update README and files
+        run: python src/main.py
+
+      - name: Configure Git
         run: |
           git config --global user.name "Jan Müller"
           git config --global user.email "janthmueller@users.noreply.github.com"
+
+      - name: Commit and Push changes
+        run: |
           now=$(date)
-          git add README.md
-          git commit -m "Auto Push on $now"
+          git add .
+          git commit -m "Auto-update Stoic Quote on $now" || echo "No changes to commit"
           git push
