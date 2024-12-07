@@ -4,7 +4,7 @@ author:
   name: "Jan T. Müller"
   email: "mail@jantmueller.com"
 
-remote_theme: jekyll/minima@2.5.1
+remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
@@ -13,5 +13,5 @@ plugins:
 minima:
   skin: dark
   social_links:
-    github: janthmueller
-    linkedin: jantmueller
+    - { platform: github, url: "https://github.com/janthmueller"}
+    - { platform: linkedin, url: "https://www.linkedin.com/in/jantmueller/"}
