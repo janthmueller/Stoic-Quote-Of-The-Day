@@ -4,9 +4,11 @@ author:
   name: "Jan T. Müller"
   email: "mail@jantmueller.com"
 
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@2.5.1
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
 minima:
   skin: dark
