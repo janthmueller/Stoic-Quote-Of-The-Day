@@ -1,8 +1,5 @@
 name: ""
 title: null
-author:
-  name: "Jan T. Müller"
-  email: "mail@jantmueller.com"
 
 remote_theme: jekyll/minima
 plugins:
