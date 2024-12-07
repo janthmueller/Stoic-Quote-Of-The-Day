@@ -6,8 +6,7 @@ plugins:
 minima:
   skin: dark
 
-# Add your social links
-social_links:
-  github: "https://github.com/janthmueller"
-  linkedin: "www.linkedin.com/in/jantmueller"
-  website: "https://www.jantmueller.com"
+  social_links:
+    github: "https://github.com/janthmueller"
+    linkedin: "www.linkedin.com/in/jantmueller"
+    website: "https://www.jantmueller.com"
