@@ -3,6 +3,7 @@ import random
 import openai
 from datetime import datetime
 import calendar as _calendar
+import argparse
 
 # File paths
 QUOTES_FILE = "src/data/quotes.json"
@@ -39,36 +40,77 @@ def get_stoic_quote_of_the_day():
     uuid = calendar[year][day_of_year - 1]
     return quotes[uuid]
 
-def get_stoic_interpretation(quote_text, author):
-    client = openai.Client()
-    user_msg = f"{quote_text} - {author}"
+def get_stoic_interpretation_api(quote_text, author):
+    """
+    Fetches interpretation from OpenAI API.
+    """
+    try:
+        client = openai.Client()
+        user_msg = f"{quote_text} - {author}"
 
-    response = client.chat.completions.create(
-        model=OPENAI_MODEL,
-        messages=[
-            {"role": "system", "content": SYSTEM_MSG},
-            {"role": "user", "content": user_msg},
-        ],
-        temperature=1,
-        top_p=1,
-        frequency_penalty=0,
-        presence_penalty=0,
-        max_tokens=500,
+        response = client.chat.completions.create(
+            model=OPENAI_MODEL,
+            messages=[
+                {"role": "system", "content": SYSTEM_MSG},
+                {"role": "user", "content": user_msg},
+            ],
+            temperature=1,
+            top_p=1,
+            frequency_penalty=0,
+            presence_penalty=0,
+            max_tokens=500,
+        )
+
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        print(f"API call failed: {e}")
+        return None
+
+def get_precomputed_interpretation(quote):
+    """
+    Selects a random precomputed interpretation from the quote's interpretations.
+    """
+    interpretations = quote.get("interpretations", [])
+    if not interpretations:
+        return None
+    return random.choice(interpretations)
+
+def parse_arguments():
+    """
+    Parses command-line arguments.
+    """
+    parser = argparse.ArgumentParser(description="Generate Stoic Quote of the Day with Interpretation.")
+    parser.add_argument(
+        '--skip-api',
+        action='store_true',
+        help='Skip fetching interpretation from OpenAI API and use a precomputed interpretation instead.'
     )
-
-    return response.choices[0].message.content
+    return parser.parse_args()
 
 if __name__ == "__main__":
+    args = parse_arguments()
+    skip_api = args.skip_api
+
     quote = get_stoic_quote_of_the_day()
     text = quote["text"]
     author = quote["author"]
     today_date_str = datetime.now().strftime("%A, %B %d, %Y")
 
-    # Attempt to get interpretation; if it fails, proceed without it.
-    try:
-        interpretation = get_stoic_interpretation(text, author)
-    except Exception:
-        interpretation = None
+    interpretation = None
+
+    if skip_api:
+        # Use a precomputed interpretation
+        interpretation = get_precomputed_interpretation(quote)
+        if not interpretation:
+            print("No precomputed interpretations available for this quote.")
+    else:
+        # Attempt to fetch interpretation from API
+        interpretation = get_stoic_interpretation_api(text, author)
+        if not interpretation:
+            # Fallback to precomputed interpretation if API call fails
+            interpretation = get_precomputed_interpretation(quote)
+            if not interpretation:
+                print("No precomputed interpretations available for this quote.")
 
     # Prepare HTML template
     # If interpretation is available, include it; otherwise just show the quote.
