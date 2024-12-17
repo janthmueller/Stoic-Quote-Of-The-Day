@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
-<p align="center"><em>Monday, December 16, 2024</em></p>
+<p align="center"><em>Tuesday, December 17, 2024</em></p>
 <p align="center">
-    <em>"Fortune attacks us as often as we attack Fortune.  It."</em><br>
-    <strong>— Seneca</strong>
+    <em>"Tranquillity is nothing else than the good ordering of the mind."</em><br>
+    <strong>— Marcus Aurelius</strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
-    In Seneca's view, the relationship between Fortune and ourselves mirrors a dance of mutual influence, where both have the capacity to impact one another. When we attribute our misfortunes to external circumstances beyond our control, we should consider how our actions and attitudes have played a role in shaping these outcomes. Just as life can present challenges that feel like attacks, our responses to these situations can sometimes worsen them. Imagine a workplace where projects regularly face unexpected hurdles; one could perpetuate stress by reacting with frustration and blame. Instead, acknowledging our part in the process—perhaps by adapting strategies or managing expectations—can lead to a more harmonious interaction with life's unpredictable nature. This reflects the essence of Stoic thought, which teaches us to cultivate resilience by focusing on our responses, knowing that both setbacks and progress often arise from this interplay. Embracing this awareness allows us to navigate life's ups and downs with more grace and less turmoil, making peace with the ebb and flow of Fortune by recognizing the power of our choices amidst it.
+    Tranquillity, a state of inner peace and calm, arises when the mind is well-ordered, reflecting the Stoic idea that our inner state isn’t dictated by external circumstances but by our own ability to manage thoughts and reactions. In today’s world, where stress and chaos often feel overwhelming, finding tranquillity involves cultivating a disciplined mindset that prioritizes rational thinking and perspective. Just as a tidy room can create a sense of peace and efficiency, organizing our thoughts allows us to focus on what truly matters, letting go of unnecessary worries that clutter our minds. For instance, when facing a demanding work project, instead of feeling anxious about potential failure or external judgments, we can achieve mental tranquillity by methodically reviewing what is within our control—such as our dedication and effort—while accepting that external opinions and outcomes often fall outside our purview. By practicing this mental organization, much like Marcus Aurelius suggests, we create a serene internal environment, one that is less swayed by life's inevitable ebbs and flows, allowing us to approach challenges with equanimity and clarity.
 </p>
