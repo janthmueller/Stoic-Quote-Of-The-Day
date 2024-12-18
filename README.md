@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
-<p align="center"><em>Tuesday, December 17, 2024</em></p>
+<p align="center"><em>Wednesday, December 18, 2024</em></p>
 <p align="center">
-    <em>"Tranquillity is nothing else than the good ordering of the mind."</em><br>
-    <strong>— Marcus Aurelius</strong>
+    <em>"“I am richer than you, therefore my property is greater than yours;” “I am more eloquent than you, therefore my style is better than yours.” But you, after all, are neither property nor style."</em><br>
+    <strong>— Epictetus</strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
-    Tranquillity, a state of inner peace and calm, arises when the mind is well-ordered, reflecting the Stoic idea that our inner state isn’t dictated by external circumstances but by our own ability to manage thoughts and reactions. In today’s world, where stress and chaos often feel overwhelming, finding tranquillity involves cultivating a disciplined mindset that prioritizes rational thinking and perspective. Just as a tidy room can create a sense of peace and efficiency, organizing our thoughts allows us to focus on what truly matters, letting go of unnecessary worries that clutter our minds. For instance, when facing a demanding work project, instead of feeling anxious about potential failure or external judgments, we can achieve mental tranquillity by methodically reviewing what is within our control—such as our dedication and effort—while accepting that external opinions and outcomes often fall outside our purview. By practicing this mental organization, much like Marcus Aurelius suggests, we create a serene internal environment, one that is less swayed by life's inevitable ebbs and flows, allowing us to approach challenges with equanimity and clarity.
+    Our worth and identity should not be attached to external possessions or superficial talents. In today's world, it's easy to measure success by comparing wealth, possessions, or skills with others. For instance, someone might feel superior because they own a luxurious car or have excellent public speaking abilities. However, these aspects do not define the core of who we are as individuals. Our true self lies beyond material wealth and eloquence. Just like the ancient teachings of Epictetus suggest, we are not the things we own or the skills we display; instead, the essence of our being transcends these external markers. Real value comes from our character, virtues, and how we treat others. By focusing on developing our inner virtues—like kindness, wisdom, and resilience—we align ourselves with a deeper sense of fulfillment that isn't swayed by the fleeting nature of material and superficial accolades. In our interactions and pursuits, recognizing that we are far more than our possessions and skills can lead to a more authentic and grounded existence, fostering inner peace regardless of external circumstances.
 </p>
