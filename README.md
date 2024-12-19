@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
-<p align="center"><em>Wednesday, December 18, 2024</em></p>
+<p align="center"><em>Thursday, December 19, 2024</em></p>
 <p align="center">
-    <em>"“I am richer than you, therefore my property is greater than yours;” “I am more eloquent than you, therefore my style is better than yours.” But you, after all, are neither property nor style."</em><br>
-    <strong>— Epictetus</strong>
+    <em>"Why need we weep over parts of our life? the whole of it calls for tears: new miseries assail us before we have freed ourselves from the old ones."</em><br>
+    <strong>— Seneca</strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
-    Our worth and identity should not be attached to external possessions or superficial talents. In today's world, it's easy to measure success by comparing wealth, possessions, or skills with others. For instance, someone might feel superior because they own a luxurious car or have excellent public speaking abilities. However, these aspects do not define the core of who we are as individuals. Our true self lies beyond material wealth and eloquence. Just like the ancient teachings of Epictetus suggest, we are not the things we own or the skills we display; instead, the essence of our being transcends these external markers. Real value comes from our character, virtues, and how we treat others. By focusing on developing our inner virtues—like kindness, wisdom, and resilience—we align ourselves with a deeper sense of fulfillment that isn't swayed by the fleeting nature of material and superficial accolades. In our interactions and pursuits, recognizing that we are far more than our possessions and skills can lead to a more authentic and grounded existence, fostering inner peace regardless of external circumstances.
+    In life, challenges and difficulties often seem unending and overwhelming. Seneca's words draw attention to the fact that suffering is an inherent part of existence, as new difficulties arise even before we can fully recover from previous ones. This might at first seem disheartening, but there's a liberation in accepting that life's struggles are a shared human experience. For example, modern life can be a cycle of stressors, such as work pressures and personal losses, which appear relentless. By acknowledging that life in its entirety includes such inevitable hardships, you can cultivate resilience and find a steadier footing amid chaos. Rather than becoming consumed by sorrow over individual setbacks, consider developing an enduring perspective that sees these difficulties as part of a greater whole. Understanding that everyone faces continuous challenges can foster empathy, patience, and a sense of community, encouraging us to seek growth and meaning in the way we handle life's relentless waves.
 </p>
