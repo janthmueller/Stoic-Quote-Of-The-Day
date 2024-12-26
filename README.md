@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
-<p align="center"><em>Wednesday, December 25, 2024</em></p>
+<p align="center"><em>Thursday, December 26, 2024</em></p>
 <p align="center">
-    <em>"Check your passions that you may not be punished by them."</em><br>
-    <strong>— Epictetus</strong>
+    <em>"The best revenge is not to do as they do."</em><br>
+    <strong>— Marcus Aurelius</strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
-    Epictetus reminds us of the importance of regulating our emotions to prevent them from leading us into trouble. Picture someone in the midst of a heated argument, letting anger flare up unchecked. This passion can quickly escalate into hurtful words or damaging actions that they later regret. In another instance, consider the allure of impulsive spending. The thrill of acquiring new things might be thrilling in the moment, but without moderation, it can siphon away our savings, entangling us in financial stress. By keeping our passions in check, we maintain a clearer perspective, allowing reason to guide our actions rather than being led astray by fleeting emotions. This balance does not stifle our enthusiasm for life but instead creates a harmony where joy and desires are pursued with wisdom and forethought, ensuring that our passions enrich rather than punish us.
+    Imagine someone treats you poorly—perhaps it's a colleague who takes credit for your work or a friend who speaks behind your back. The instinct might be to retaliate in kind, mirroring their negativity and unfair actions. However, Marcus Aurelius offers a strikingly different perspective: the best response to injustice and pettiness isn't to descend to their level but to rise above it. By not replicating their behavior, you maintain your integrity and peace of mind, refusing to let their actions define your reactions. In today's world, filled with social media spats and quick judgments, choosing not to retaliate can be a powerful form of self-control and personal dignity. It sends a message that your values and character aren't swayed by others' misdeeds, cultivating an inner strength that is unshakable. Moreover, this approach can inspire respect and perhaps even introspection in others, as they witness your decision to act with compassion and understanding instead of hostility. In taking the high road, you protect your own well-being and set an example of resilience and grace.
 </p>
