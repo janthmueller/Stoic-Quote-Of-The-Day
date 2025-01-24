@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
-<p align="center"><em>Thursday, January 23, 2025</em></p>
+<p align="center"><em>Friday, January 24, 2025</em></p>
 <p align="center">
-    <em>"And then we’ll be emulating Socrates,* once we’re able to write hymns of praise in prison."</em><br>
-    <strong>— Epictetus</strong>
+    <em>"He was taught to dress plainly and to live simply, to avoid all softness and luxury."</em><br>
+    <strong>— Marcus Aurelius</strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
-    Imagine finding yourself in a situation that seems utterly oppressive or confining, like being stuck in a traffic jam hours away from an important meeting or dealing with an unexpected setback at work. It’s during these moments of constraint that Stoicism offers a powerful perspective. Epictetus suggests that true wisdom and inner freedom come from the ability to maintain positivity and a sense of gratitude, regardless of external circumstances. Think of Socrates, who maintained his serenity even while imprisoned. In today’s world, this could mean using your time in an unfavorable situation to reflect on aspects of life worthy of gratitude or growth. Instead of succumbing to frustration or despair, you can choose to cultivate resilience by finding peace of mind and expressing thankfulness, akin to singing a hymn of praise. This mindset transforms adversity into an opportunity for personal development and shows that true freedom lies in how you respond to life’s challenges, not in the absence of those challenges.
+    Marcus Aurelius suggests embracing a life of simplicity and humility, shedding the unnecessary trappings of luxury and excess. This philosophy encourages us to focus on what truly matters and develop resilience by not becoming overly dependent on comforts. In today's world, where consumer culture often equates happiness with material possessions, the reminder to dress plainly and avoid softness offers liberation. It opens the door to valuing experiences over things, connections over possessions, and self-discipline over indulgence. By simplifying our lives, we can reduce distractions and stress, allowing for clearer decision-making and a deeper sense of contentment. Whether it’s resisting the urge to upgrade to the latest gadget or finding joy in a homemade meal instead of dining at lavish restaurants, adopting a simple lifestyle fosters a grounded approach to life. This mindset enables us to remain grateful for the basics and strengthens our character, making us less reliant on external sources for our happiness.
 </p>
