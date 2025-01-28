@@ -27,14 +27,14 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install kathekon
 
       - name: Run script to update README and files
-        run: python src/main.py --skip-api
+        run: kathekon daily
 
       - name: Configure Git
         run: |
-          git config --global user.name "Jan Müller"
+          git config --global user.name "janthmueller"
           git config --global user.email "janthmueller@users.noreply.github.com"
 
       - name: Commit and Push changes
