@@ -32,6 +32,10 @@ jobs:
       - name: Run script to update README and files
         run: kathekon daily
 
+      - name: Insert current date into README
+        run: |
+          python3 -c "import datetime, re; filename = 'README.md'; text = open(filename).read(); updated = re.sub(r'<!--date-start-->.*?<!--date-end-->', '<!--date-start-->{}<!--date-end-->'.format(datetime.datetime.now().strftime('%A, %B %d, %Y')), text, flags=re.DOTALL); open(filename, 'w').write(updated)"
+
       - name: Configure Git
         run: |
           git config --global user.name "janthmueller"
