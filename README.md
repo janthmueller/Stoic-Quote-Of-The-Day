@@ -1,16 +1,16 @@
 <h1 align="center">Stoic Quote of the Day</h1>
-<p align="center"><em><!--date-start-->Tuesday, January 28, 2025<!--date-end--></em></p>
+<p align="center"><em><!--date-start-->Wednesday, January 29, 2025<!--date-end--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Associate with people who are likely to improve you.
+Does a man offend your pride? Remember he will be dead soon, as will you.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Marcus Aurelius
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Surrounding yourself with people who inspire growth and positive change is a principle as relevant today as it was in Seneca's time. Just as a plant flourishes in fertile soil, individuals thrive when they are in environments that encourage their development. Consider how associating with colleagues who challenge you intellectually can lead to greater innovation and success in your career. Similarly, spending time with friends who uphold strong values can bolster your own resolve to live ethically and honestly. In a world full of distractions and pressures, the company you keep can significantly influence your thoughts, habits, and overall well-being. By choosing relationships that encourage self-improvement, you're more likely to develop resilience, gain perspective, and continually learn. This conscious selection of positive influences mirrors cultivating a healthy lifestyle or pursuing skilled mentorship—strategies that consistently lead to personal enhancement and a more fulfilling life.
+In considering the briefness of life, Marcus Aurelius invites us to put offenses into perspective. When someone injures our pride, it often feels acute and personal, igniting a defensive posture as if our worth is under siege. However, alongside this affront comes the stark reminder of our shared mortality. Recognizing that both ourselves and the person who slighted us are temporary residents in this world helps in diminishing the intensity of such emotional wounds. Life's fleeting nature suggests that carrying resentment or dwelling on perceived slights is not only burdensome but ultimately trivial. In contemporary times, perhaps someone cuts you off in traffic or a colleague undermines your efforts at work. Before anger has the chance to spiral into grudges, remember that these moments are as transient as both you and the aggrieving party. By acknowledging that everyone is subject to life's impermanence, we are prompted to choose forgiveness and humility over pride, finding peace in letting go and focusing on actions that elevate our human experience rather than diminish it.
 <!--END_SECTION:quote-interpretation-->
 </p>
