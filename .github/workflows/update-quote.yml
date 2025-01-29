@@ -30,7 +30,7 @@ jobs:
           pip install kathekon
 
       - name: Run script to update README and files
-        run: kathekon daily
+        run: kathekon readme daily
 
       - name: Insert current date into README
         run: |

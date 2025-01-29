@@ -1,5 +1,5 @@
 <h1 align="center">Stoic Quote of the Day</h1>
-<p align="center"><em>Tuesday, January 28, 2025</em></p>
+<p align="center"><em><!--date-start-->Tuesday, January 28, 2025<!--date-end--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
 Associate with people who are likely to improve you.
