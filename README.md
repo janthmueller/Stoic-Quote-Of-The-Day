@@ -1,16 +1,16 @@
 <h1 align="center">Stoic Quote of the Day</h1>
-<p align="center"><em><!--date-start-->Friday, February 14, 2025<!--date-end--></em></p>
+<p align="center"><em><!--date-start-->Saturday, February 15, 2025<!--date-end--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-If you wish Pythocles to have pleasure for ever, do not add to his pleasures, but subtract from his desires.
+How ridiculous and unrealistic is the man who is astonished at anything that happens in life.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Marcus Aurelius
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Rather than constantly chasing more material possessions or experiences to achieve lasting contentment, consider the benefits of reducing how much you crave them. Seneca's advice to subtract from desires instead of adding to pleasures suggests that true satisfaction comes not from accumulating more but from wanting less. In our modern world, where society often encourages accumulation and consumption as paths to happiness, this can especially resonate. Imagine feeling overwhelmed by the endless cycle of wanting the latest gadgets, clothes, or the perfect lifestyle portrayed on social media. By deliberately choosing to desire only what truly enriches your life and finding contentment with what you have, you open the door to enduring peace and joy. This mindset shift can transform how you perceive and enjoy life, encouraging gratitude and presence over perpetual longing and dissatisfaction. Thus, cultivating simplicity in desires leads not only to a more sustainable world but also to a more fulfilled and pleasurable personal life.
+Life is full of surprises, both pleasant and challenging, and reacting with astonishment at any outcome reveals a disconnect from reality. Marcus Aurelius suggests that being surprised by life's events indicates an unrealistic expectation that life will always conform to our desires or plans. By accepting that unpredictability is inherent to the human experience, we can cultivate resilience and peace. Consider receiving unexpected criticism at work or encountering sudden delays in traffic; instead of being shocked or frustrated, recognizing these as natural occurrences allows us to respond thoughtfully rather than reactively. This mindset encourages us to prepare for life's unpredictabilities, recognizing them as opportunities to practice patience, adaptability, and acceptance. Embracing this perspective helps diminish unnecessary distress and fosters a sense of calm amid life's ever-changing circumstances, aligning us with the Stoic ideal of maintaining equanimity regardless of external happenings.
 <!--END_SECTION:quote-interpretation-->
 </p>
