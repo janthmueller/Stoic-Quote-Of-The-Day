@@ -1,16 +1,16 @@
 <h1 align="center">Stoic Quote of the Day</h1>
-<p align="center"><em><!--date-start-->Monday, May 19, 2025<!--date-end--></em></p>
+<p align="center"><em><!--date-start-->Tuesday, May 20, 2025<!--date-end--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-It’s not that we have a short time to live, but that we waste a lot of it.” -Lucius Annaeus Seneca.
+The more we value things outside our control, the less control we have.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Life often feels like it's slipping through our fingers, not because the days are too few, but because we often squander them on pursuits that hold little real value. Seneca's words remind us to examine how we spend our time, urging us to shift our focus from distractions and trivial matters to what truly enriches our lives. Think about the moments spent scrolling aimlessly through social media or consumed by worrying over things beyond our control—these are instances where time is lost. Instead, embracing activities that foster genuine connection, self-improvement, and mindfulness can transform how time feels. Imagine seizing opportunities to learn a new skill, engage with loved ones, or help someone in need. These actions make our days fuller and weave meaning into the fabric of our lives. By being intentional with our time and focusing on what's truly important, we convert the illusion of scarcity into a life abundant with purpose and satisfaction. In a world brimming with distractions, choosing how we spend each passing moment can significantly impact the richness and fulfillment of our life journey.
+Epictetus invites us to reflect on where we place our value and how this affects our sense of agency. When we attach our happiness and self-worth to things beyond our control—like the approval of others, material wealth, or even our job security—we essentially hand over the reins of our emotional well-being to forces we cannot influence. Imagine feeling anxious because a friend hasn't responded to your message or stressed about market fluctuations affecting your finances. By giving power to these external factors, we're allowing them to dictate our inner peace and happiness, often resulting in frustration and feeling overwhelmed. Instead, by reorienting our focus towards what we can control, such as our perspectives, reactions, and choices, we reclaim our autonomy and cultivate a more resilient and peaceful mindset. Embracing this Stoic approach can help us navigate modern life's uncertainties with greater serenity, finding stability in the only true realm of control we have—our inner lives.
 <!--END_SECTION:quote-interpretation-->
 </p>
