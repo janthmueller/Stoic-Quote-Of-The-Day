@@ -1,16 +1,16 @@
 <h1 align="center">Stoic Quote of the Day</h1>
-<p align="center"><em><!--date-start-->Thursday, May 29, 2025<!--date-end--></em></p>
+<p align="center"><em><!--date-start-->Friday, May 30, 2025<!--date-end--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Restrict yourself to choice and refusal; and exercise them carefully, with discipline and detachment.
+Our own worth is measured by what we devote our energy to.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Epictetus
+Marcus Aurelius
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Epictetus reminds us of the importance of focusing on what we can truly control in life: our choices. In a world full of uncertainties and events beyond our grasp, our power lies in what we choose to pursue or avoid. Imagine you're at work facing criticism. Instead of reacting emotionally or defensively, reflect with discipline and calm. Choose how you will respond, whether by taking constructive feedback or by not internalizing negativity. This deliberate practice of making thoughtful decisions extends to all aspects of life, whether it's choosing to nurture healthy relationships or deciding to let go of toxic ones. It's about understanding that while we cannot dictate everything that happens, we do command how we respond. By practicing detachment, we acknowledge that our inner peace shouldn't be influenced by external factors. This mindset doesn't equate to indifference; rather, it is about approaching situations thoughtfully and with equilibrium, ensuring that our actions align with our true values and long-term wellbeing.
+The energy and attention we dedicate to activities and pursuits fundamentally shape our character and sense of self-worth. In a busy modern world filled with distractions and competing demands, the choices we make about where to focus our time and efforts are more crucial than ever. Just as Marcus Aurelius observed, our commitments—be they to personal growth, helping others, or striving for excellence in our work—reflect not only our values but also inform our identity. For instance, if someone devotes their efforts predominantly to fostering strong relationships and supporting their community, they craft a life rich with purpose and interconnectedness, aligning their worth with the depth and impact of these endeavors. Conversely, pouring energy into superficial or transient pursuits can leave a person feeling unfulfilled and disconnected from a deeper sense of self. By consciously choosing and channeling our energy into meaningful, constructive pursuits, we effectively cultivate a life that's reflective of our true worth, grounded in contributions that matter both to ourselves and those around us.
 <!--END_SECTION:quote-interpretation-->
 </p>
