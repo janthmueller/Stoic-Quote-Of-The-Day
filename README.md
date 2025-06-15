@@ -1,16 +1,16 @@
 <h1 align="center">Stoic Quote of the Day</h1>
-<p align="center"><em><!--date-start-->Saturday, June 14, 2025<!--date-end--></em></p>
+<p align="center"><em><!--date-start-->Sunday, June 15, 2025<!--date-end--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-It stares you in the face. No role is so well suited to philosophy as the one you happen to be in right now.
+In prosperity it is very easy to find a friend; but in adversity it is most difficult of all things.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Marcus Aurelius
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-In Marcus Aurelius' words, he prompts us to recognize that the path to philosophical reflection and personal growth is not found in waiting for the perfect moment or role but in fully embracing where we currently find ourselves. Whether you're a student, a parent juggling various responsibilities, or a professional navigating workplace challenges, the opportunity for deeper understanding and self-improvement is ever-present. Every role we inhabit in our daily lives offers unique insights and obstacles that can be stepping stones to wisdom, if approached with awareness and reflection. Imagine being stuck in traffic, feeling frustrated; this moment becomes a chance to practice patience and mindfulness, turning an everyday irritation into an opportunity for growth. By seeing philosophy as a daily practice suited to whatever life demands of us at the moment, we shift from a mindset of waiting for the "right" conditions to one of continuous learning and adaptation. In doing so, we cultivate resilience and find purpose in each task, seeing each situation as fertile ground for philosophical contemplation and action.
+During times of prosperity, when everything seems to be going our way, friends often appear numerous and readily available, drawn to our success and the comforts that come with it. This is akin to how, in today's world, when someone is achieving career success, throwing lavish parties, or sporting the latest gadgets, many will flock to them, eager to share in their apparent abundance and joys. However, the true test of friendship arises during adversity—those difficult periods marked by personal struggles, failures, or losses. In such moments, when financial stability might waver, health issues may loom, or personal challenges present themselves, fair-weather companions tend to disappear, underscoring the scarcity of genuine support. It's during these challenging times that one discovers who their true friends are, those rare individuals who, regardless of circumstances, remain steadfast in offering empathy, support, and encouragement. This idea, deeply rooted in Stoic philosophy, invites us to cherish and nurture these authentic relationships, understanding that the value of true friends is measured not by their presence in good times, but by their unwavering loyalty and support in the face of hardship.
 <!--END_SECTION:quote-interpretation-->
 </p>
