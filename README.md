@@ -1,5 +1,5 @@
 <h1 align="center">Stoic Quote of the Day</h1>
-<p align="center"><em><!--date-start-->Monday, July 21, 2025<!--date-end--></em></p>
+<p align="center"><em><!--START_SECTION:current-date--><!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
 Why do you voluntarily deceive yourself and require to be told now for the first time what fate it is that you have long been labouring under? Take my word for it: since the day you were born you are being led thither.
