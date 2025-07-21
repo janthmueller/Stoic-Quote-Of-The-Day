@@ -15,5 +15,5 @@ jobs:
       - name: Insert Stoic Quote into README
         uses: janthmueller/insert-stoic-quote@main
         with:
-          mode: "random"                   # 'daily' or 'random'
+          type: "random"                   # 'daily' or 'random'
           file: "README.md"               # file to update
