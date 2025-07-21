@@ -1,49 +1,19 @@
-name: GitHub Self-Updating Stoic Quote
+name: Update Stoic Quote
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:     # Allows manual triggering
-
-permissions:
-  contents: write  # Grant write permissions
-
-env:
-  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+    - cron: "0 0 * * *"  # daily at midnight
+  workflow_dispatch:
 
 jobs:
-  update-quote:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository code
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Insert Stoic Quote into README
+        uses: janthmueller/insert-stoic-quote@v1
         with:
-          python-version: "3.11" # or your preferred Python version
-
-      - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-          pip install kathekon
-
-      - name: Run script to update README and files
-        run: kathekon readme daily
-
-      - name: Insert current date into README
-        run: |
-          python3 -c "import datetime, re; filename = 'README.md'; text = open(filename).read(); updated = re.sub(r'<!--date-start-->.*?<!--date-end-->', '<!--date-start-->{}<!--date-end-->'.format(datetime.datetime.now().strftime('%A, %B %d, %Y')), text, flags=re.DOTALL); open(filename, 'w').write(updated)"
-
-      - name: Configure Git
-        run: |
-          git config --global user.name "janthmueller"
-          git config --global user.email "janthmueller@users.noreply.github.com"
-
-      - name: Commit and Push changes
-        run: |
-          now=$(date)
-          git add .
-          git commit -m "Auto-update Stoic Quote on $now" || echo "No changes to commit"
-          git push
+          mode: "random"                   # 'daily' or 'random'
+          file: "README.md"               # file to update
