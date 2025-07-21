@@ -5,18 +5,17 @@ on:
     - cron: "0 0 * * *"  # daily at midnight
   workflow_dispatch:
 
-permissions:
-  contents: write  
-  
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v3
 
       - name: Insert Stoic Quote into README
-        uses: janthmueller/insert-stoic-quote@main
+        uses: janthmueller/insert-stoic-quote@v0.0.8
         with:
           type: "daily"                   # 'daily' or 'random'
           file: "README.md"               # file to update
