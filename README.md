@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Monday, July 21, 2025
+Tuesday, July 22, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-It is not what you endure that matters, but how you endure it.
+Other people's views and troubles can be contagious. Don't sabotage yourself by unwittingly adopting negative, unproductive attitudes through your associations with others.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-In navigating the challenges of life, the focus should shift from merely enduring difficulties to embracing how we endure them. Seneca's wisdom touches on the essence of resilience and attitude. Everyone encounters hardships—whether it's job-related stress, personal loss, or unexpected changes in relationships—but the real test lies in our responses. Picture two individuals facing the same setback: one may be overwhelmed by bitterness and complaint, while the other chooses acceptance and adaptation, seeking growth within adversity. It's like a storm battering a tree; one bends without breaking, using its flexibility to withstand the force, while the other, rigid and resistant, may snap. By cultivating an approach grounded in patience, understanding, and acceptance, we can transform our experiences into opportunities for personal growth. This mindset not only makes life’s burdens lighter but also enriches our character, allowing us to remain grounded and serene amid turmoil.
+Epictetus highlights the powerful influence that other people's perspectives and challenges can have on our mental and emotional states. It's like when you spend time with someone who is perpetually stressed or negative; their outlook can subtly shift your own thinking in ways that are not always beneficial. Just as you might catch a cold by hanging around someone who's ill, you can catch these negative attitudes if you're not careful. This is especially relevant today, when we're constantly exposed to others' opinions and anxieties on social media and in our daily interactions. It's important to be mindful of the company you keep—physically and digitally—because these influences can shape your perception of reality. By surrounding yourself with individuals who embody positivity, resilience, and constructive views, you set a foundation for adopting those same productive attitudes. This doesn’t mean avoiding anyone with problems, but rather it involves being aware of how these interactions can impact your mindset, ensuring you maintain a personal boundary that protects and nurtures your own well-being and outlook on life.
 <!--END_SECTION:quote-interpretation-->
 </p>
