@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Saturday, August 16, 2025
+Sunday, August 17, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-There is a kind of river of things passing into being and Time is a violent torrent. For no sooner is each seen, than it has been carried away, and another is being carried by, and that, too, will be carried away.
+Demand not that things happen as you wish, but wish them to happen as they do, and you will go on well.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Marcus Aurelius
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Life is much like a flowing river, with moments constantly emerging and then swiftly vanishing, akin to watching a leaf float by only to disappear from view as another takes its place. This imagery from Marcus Aurelius serves as a gentle reminder of the transient nature of our existence. Each moment we experience, whether pleasurable or challenging, is fleeting and soon replaced by the next. In our fast-paced modern world, where changes happen rapidly—like shifting jobs, evolving relationships, or the relentless cycle of news—it’s easy to feel caught up in the rush. By recognizing this perpetual state of flux, we can learn to embrace the present without clinging to the past or anxiously anticipating the future. This perspective encourages us to savor today’s experiences and let go of any attachments to what has passed or worries about what yet may come, fostering resilience and serenity amidst life's inevitable changes.
+In life, we often encounter situations that differ vastly from our expectations, and this dissonance can lead to frustration and stress. Imagine planning a weekend getaway—a peaceful escape from the hectic workweek—only to be greeted by relentless rain and unexpected delays. Rather than lamenting the disruption or clinging to an idealized version of your plans, adjusting your mindset to embrace the actuality of the situation can offer a sense of peace and resilience. By accepting events as they unfold, just like navigating a rainy vacation with spontaneous indoor activities or enjoying the company of travel companions despite the setbacks, you align your desires with reality. This acceptance not only alleviates personal dissatisfaction but also allows you to respond more effectively to life's challenges. Like a tree that bends with the wind, flexibly accepting the outcomes of life can lead to a more harmonious and fulfilling existence, fostering contentment by flowing with life's natural course rather than resisting it. This Stoic approach urges us to cultivate inner tranquility by harmonizing our desires with the world's inevitable changes, thereby promoting a mindset that is adaptable and serene.
 <!--END_SECTION:quote-interpretation-->
 </p>
