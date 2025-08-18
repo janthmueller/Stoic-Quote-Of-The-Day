@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Sunday, August 17, 2025
+Monday, August 18, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Demand not that things happen as you wish, but wish them to happen as they do, and you will go on well.
+It is not that we have a short time to live but that we waste a lot of it.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Epictetus
+Seneca
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-In life, we often encounter situations that differ vastly from our expectations, and this dissonance can lead to frustration and stress. Imagine planning a weekend getaway—a peaceful escape from the hectic workweek—only to be greeted by relentless rain and unexpected delays. Rather than lamenting the disruption or clinging to an idealized version of your plans, adjusting your mindset to embrace the actuality of the situation can offer a sense of peace and resilience. By accepting events as they unfold, just like navigating a rainy vacation with spontaneous indoor activities or enjoying the company of travel companions despite the setbacks, you align your desires with reality. This acceptance not only alleviates personal dissatisfaction but also allows you to respond more effectively to life's challenges. Like a tree that bends with the wind, flexibly accepting the outcomes of life can lead to a more harmonious and fulfilling existence, fostering contentment by flowing with life's natural course rather than resisting it. This Stoic approach urges us to cultivate inner tranquility by harmonizing our desires with the world's inevitable changes, thereby promoting a mindset that is adaptable and serene.
+Time often feels scarce, yet Seneca reminds us that it isn’t the brevity of life that limits us but rather how frequently we squander the moments we're given. Imagine the routine rush of everyday life, where hours easily slip away through endless scrolling on phones, dwelling on past regrets, or worrying about the uncertain future. In these modern times, distractions are plentiful, often luring us into spending our days in a state of autopilot, disconnected from the present. Seneca’s wisdom nudges us to re-evaluate this pattern, urging us to be mindful of how we spend our time, which is our most precious resource. By fostering a conscious awareness of each moment, choosing meaningful actions over passive engagement, we can reclaim our time. Whether it's savoring a simple walk in nature, focusing fully on a conversation with a loved one, or immersing oneself deeply in creative endeavors, these intentional choices enrich our lives, allowing us to feel more fulfilled. The essence of his message is about embracing the present with purpose, making each moment count, not through grand acts but through mindful living.
 <!--END_SECTION:quote-interpretation-->
 </p>
