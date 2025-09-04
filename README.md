@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Wednesday, September 03, 2025
+Thursday, September 04, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Life is divided into three parts: what was, what is and what shall be. Of these three periods, the present is short, the future is doubtful and the past alone is certain.
+Death smiles at us all, all a man can do is smile back.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Marcus Aurelius
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-In Seneca's description of life as divided into the past, present, and future, we can find a powerful reminder about the nature of time and our own perspective on it. The present moment is fleeting, a brief, ephemeral point that we must experience immediately before it slips into the domain of the past. In today’s fast-paced world, it's easy to get caught up in the rush, forgetting to truly inhabit and appreciate our present because we're too anxious about the uncertainty of the future or too fixated on what has already happened. Understanding that the future is inherently unpredictable and that worrying over it can drain our current peace helps us channel our energy more constructively. Meanwhile, the past — though it cannot be altered — holds certainty. It offers lessons, memories, and a grounding sense of history, but dwelling there for too long can prevent us from making the most of now. So, as we scroll through social media feeds or get wrapped up in work deadlines, Seneca nudges us to re-anchor ourselves in the present. By accepting the certainty of the past and embracing the unpredictable beauty of the future without fret, we can cultivate a sense of calm and focus, enabling us to lead a more centered, meaningful life, even amid the unpredictability of modern times.
+In this statement, Marcus Aurelius reflects on the inevitability of death, a reality every human faces regardless of status or circumstance. Rather than viewing death with fear or resistance, he invites us to embrace it with acceptance and tranquility. This approach doesn't mean we disregard the value of life but encourages us to acknowledge death as a natural part of it. By "smiling back," we are urged to live in the present, make peace with the impermanence of our existence, and to focus on what we can control—our attitudes and actions. In modern life, this could manifest as not allowing the fear of failure or the anxiety of the future to paralyze us. For instance, when faced with a challenging career decision or pursuing a long-held passion, recognizing that our time is finite can spur us to act courageously and genuinely. We learn to prioritize moments and relationships, nurturing them with deeper appreciation and meaning. Ultimately, adopting such a mindset enables us to live more fully and intentionally, finding tranquility in knowing we have engaged with life on our terms, even under the omnipresent gaze of mortality.
 <!--END_SECTION:quote-interpretation-->
 </p>
