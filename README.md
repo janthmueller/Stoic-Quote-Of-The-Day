@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Monday, September 08, 2025
+Tuesday, September 09, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-I shall never be ashamed of citing a bad author if the line is good.
+Remind thyself that he whom thou lovest is mortal  that what thou lovest is not thine own; it is given thee for the present, not irrevocably nor for ever, but even as a fig or a bunch of grapes at the appointed season of the year.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Seneca's thought suggests that value lies in the wisdom or truth of ideas, rather than in their source. This insight encourages us to embrace genuine understanding from wherever it arises, without prejudice toward the origins. In today’s world, where information is vast and diverse, it's easy to dismiss valuable insights simply because they come from unconventional or unexpected places. Consider the scenario of learning from someone who doesn't fit the traditional mold: a young child can teach us creativity with their imaginative play, a competitor might offer a strategy that improves our own, or a colleague who usually isn't vocal might provide a unique perspective on a problem we've been trying to solve. Just as in our digital age, where useful life lessons can be found in a Reddit thread or a YouTube comment, the key is to focus on the content's merit rather than its author’s reputation. By doing so, we open ourselves to a broader horizon of knowledge, embracing the good wherever it may be found and applying it to enhance our lives meaningfully.
+In the midst of our modern lives, where relationships and possessions often take on a sense of permanence, it's valuable to remember the transient nature of everything we hold dear. When we love someone deeply or treasure something dearly, there lies an implicit expectation of continuity—of having them or it indefinitely. Yet, the wisdom here encourages us to appreciate the present moment without clinging to the illusion of permanence. Just as we savor a ripe fig or a bunch of grapes when they are in season, we should cherish our loved ones with the understanding that life’s circumstances are ever-changing. This acceptance doesn't diminish the joy or love we feel, but rather enhances it, allowing us to be present and fully appreciative, without the fear of inevitable change or loss overshadowing our experience. In contemporary terms, it can be likened to enjoying a sunset; we know it won't last forever, yet its beauty is no less compelling. By acknowledging the impermanence of life, we free ourselves from the burden of clutching onto things beyond their time, and in doing so, find a deeper, more peaceful appreciation for them while they are with us.
 <!--END_SECTION:quote-interpretation-->
 </p>
