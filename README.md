@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Friday, September 12, 2025
+Saturday, September 13, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Furthermore, if you will pay close heed to the problem, you will find that the largest portion of our life passes while we are doing ill, a goodly share while we are doing nothing, and the whole while we are doing that which is not to the purpose.
+Things of themselves cannot touch the soul at all. They have no entry to the soul, and cannot turn or move it. The soul alone turns and moves itself, making all externals presented to it cohere with the judgements it thinks worthy of itself.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Marcus Aurelius
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Seneca reflects on how much of our time is often squandered, inviting us to scrutinize the ways we expend our lives. We can readily see this notion echoed in our contemporary hustle, where days are filled with endless scrolling through social media feeds, procrastinating over tasks, or engaging in activities that neither fulfill us nor align with our deeper objectives. It’s a gentle reminder to evaluate whether our actions serve a meaningful purpose or if we are simply filling time, distracted or misdirected. In today's rapid-paced society, it’s easy to get swept up in busyness that feels productive but doesn't genuinely move us toward a life of substance and intentionality. Consider your daily habits: are you focusing on tasks that genuinely contribute to your growth and happiness, or are you allowing urgency and convenience to dictate your use of time? Embracing Seneca's wisdom can inspire us to tackle procrastination, prioritize what truly matters, and strive for a life marked by purposeful action. By doing so, we can ensure that our precious moments are spent with intention and direction, nurturing personal growth and meaningful connections rather than being lost to mindless activity.
+In a world bustling with distractions and challenges, it's crucial to recognize that external circumstances cannot deeply affect the core of who you truly are—your soul. Imagine facing a busy workday or dealing with unexpected car trouble; while these events may provoke stress, they don't dictate the essence of your being. When Marcus Aurelius speaks of the soul turning and moving itself, he highlights our intrinsic power to choose our responses and form our judgments. Just as a serene lake remains undisturbed by the myriad of activities around it, our inner self holds the power to remain calm and composed, interpreting external events thoughtfully and maturely. By doing so, we align these occurrences with the values and principles we cherish most deeply. Practicing this perspective means cultivating an internal resilience where daily frustrations, like a delayed flight or a disagreement with a friend, serve not as threats to our tranquility, but as opportunities to reflect, adapt, and reaffirm our most virtuous self.
 <!--END_SECTION:quote-interpretation-->
 </p>
