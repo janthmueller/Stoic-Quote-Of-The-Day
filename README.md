@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Saturday, September 13, 2025
+Sunday, September 14, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Things of themselves cannot touch the soul at all. They have no entry to the soul, and cannot turn or move it. The soul alone turns and moves itself, making all externals presented to it cohere with the judgements it thinks worthy of itself.
+No man has been shattered by the blows of Fortune unless he was first deceived by her favours.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Marcus Aurelius
+Seneca
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-In a world bustling with distractions and challenges, it's crucial to recognize that external circumstances cannot deeply affect the core of who you truly are—your soul. Imagine facing a busy workday or dealing with unexpected car trouble; while these events may provoke stress, they don't dictate the essence of your being. When Marcus Aurelius speaks of the soul turning and moving itself, he highlights our intrinsic power to choose our responses and form our judgments. Just as a serene lake remains undisturbed by the myriad of activities around it, our inner self holds the power to remain calm and composed, interpreting external events thoughtfully and maturely. By doing so, we align these occurrences with the values and principles we cherish most deeply. Practicing this perspective means cultivating an internal resilience where daily frustrations, like a delayed flight or a disagreement with a friend, serve not as threats to our tranquility, but as opportunities to reflect, adapt, and reaffirm our most virtuous self.
+In this quote, Seneca is reminding us that true misfortune often finds its roots in our own misplaced expectations and attachments. When we experience a period of good luck or success, we might become complacent, assuming that fortune will consistently favor us. This leads us to place undue value on external circumstances like wealth, status, or comfort, believing these are permanent sources of happiness. However, when life inevitably changes course and adversity strikes, as it does for everyone, the shock can feel devastating, not because of the inherent misfortune, but because we've allowed ourselves to be misled by temporary pleasures. In modern life, this might look like becoming so attached to a high-paying job that when layoffs happen, as they sometimes do in volatile industries, one feels completely lost and broken. A Stoic approach would involve appreciating good times without becoming overly reliant on them, maintaining a steady inner contentment that is resilient to life's ups and downs. By grounding our sense of well-being in internal virtues like resilience and adaptable wisdom, rather than in the transient gifts of Fortune, we develop a fortitude that helps us navigate any challenge with equanimity.
 <!--END_SECTION:quote-interpretation-->
 </p>
