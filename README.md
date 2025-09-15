@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Sunday, September 14, 2025
+Monday, September 15, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-No man has been shattered by the blows of Fortune unless he was first deceived by her favours.
+Will any man despise me? Let him see to it. But I will see to it that I may not be found doing or saying anything that deserves to be despised.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Marcus Aurelius
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-In this quote, Seneca is reminding us that true misfortune often finds its roots in our own misplaced expectations and attachments. When we experience a period of good luck or success, we might become complacent, assuming that fortune will consistently favor us. This leads us to place undue value on external circumstances like wealth, status, or comfort, believing these are permanent sources of happiness. However, when life inevitably changes course and adversity strikes, as it does for everyone, the shock can feel devastating, not because of the inherent misfortune, but because we've allowed ourselves to be misled by temporary pleasures. In modern life, this might look like becoming so attached to a high-paying job that when layoffs happen, as they sometimes do in volatile industries, one feels completely lost and broken. A Stoic approach would involve appreciating good times without becoming overly reliant on them, maintaining a steady inner contentment that is resilient to life's ups and downs. By grounding our sense of well-being in internal virtues like resilience and adaptable wisdom, rather than in the transient gifts of Fortune, we develop a fortitude that helps us navigate any challenge with equanimity.
+In a world hyper-focused on image and reputation, it is easy to become obsessed with how others perceive us. Marcus Aurelius, however, reminds us of the importance of maintaining internal integrity over external validation. Imagine you're at work, and a colleague is spreading unfounded rumors about you. While it's natural to feel upset or defensive, Marcus guides us to concentrate on our own actions and character instead. It is not within our control to dictate others' opinions or behaviors, but we have the power to ensure our actions are honorable and devoid of reproach. By focusing on our values and conduct, much like navigating through a storm by focusing on our compass rather than the waves, we uphold a sense of dignity and self-respect that is immune to the judgments of others. The emphasis lies in doing and saying things that align with our moral compass, making sure our contributions to the world reflect the person we strive to be, regardless of whether others choose to acknowledge it or not. Such an approach fosters a peaceful, resilient spirit, grounded in self-awareness and detached from the fleeting whims of societal approval.
 <!--END_SECTION:quote-interpretation-->
 </p>
