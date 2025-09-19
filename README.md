@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Thursday, September 18, 2025
+Friday, September 19, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Wealth consists not in having great possessions, but in having few wants.
+It is wrong not to stretch out your hand to the fallen: that is a common law of the human race.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Epictetus
+Seneca
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-True wealth, according to Epictetus, is not about amassing material riches or acquiring many possessions, but rather in cultivating a state of mind where you desire less. In our modern world, the temptation to measure success by the number of things we own or the latest gadgets we have can often lead to a cycle of perpetual dissatisfaction. Many people find themselves constantly pursuing the next big purchase, only to feel a fleeting sense of fulfillment before the next desire takes hold. Epictetus suggests a more contented and fulfilling life can be found by focusing on simplifying our desires instead of expanding our assets. Picture someone who feels a deep sense of peace and satisfaction in a cozy, simple home filled not with the latest upscale furnishings, but with cherished items that bring true joy—like a well-worn book or a favorite mug for morning coffee. By wanting less, we allow ourselves the freedom to appreciate more, finding abundance in the small, meaningful things. This mindset encourages us not to seek endlessly but to embrace gratitude, reducing the noise of want and replacing it with the calm clarity of contentment in life's simple pleasures.
+Seneca reminds us of the intrinsic duty we owe to one another as part of the human family, emphasizing our shared responsibility to help those in need. In our busy modern lives, it's easy to become absorbed in personal pursuits, yet the essence of our humanity is expressed in acts of compassion. For instance, when we see someone struggling—whether it's a colleague overwhelmed with a workload, a friend going through a tough breakup, or even a stranger in distress on the street—the Stoic approach would guide us to offer support, even if it's just a listening ear or a small act of kindness. By reaching out, we not only uphold a moral obligation but also foster a sense of unity and interconnectedness, strengthening the social fabric that sustains us all. This simple, yet profound act of kindness transcends cultural and temporal boundaries, reminding us that despite our individual differences, our suffering and joys are a shared human experience. In prioritizing empathy and action over indifference, we adhere to this universal law of aiding those who have stumbled, enriching both their lives and our own in the process.
 <!--END_SECTION:quote-interpretation-->
 </p>
