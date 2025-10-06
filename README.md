@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Sunday, October 05, 2025
+Monday, October 06, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Natural abilities do not respond well to compulsion; when Nature is in opposition, labour is fruitless.
+If you wish to be a writer, write.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-When we attempt to force ourselves to excel in areas that don’t align with our natural inclinations or talents, the results are often lackluster and disheartening. Imagine trying to fit a square peg into a round hole; the effort expended is ineffective and might even damage the peg or the hole. Seneca’s words remind us that pushing against our inherent nature can be counterproductive; instead, it's more beneficial to identify and embrace our genuine strengths. In the modern world, this wisdom is particularly relevant in professional contexts. For instance, someone with a naturally creative mind might struggle in a role that demands rigorous attention to numerical detail. Despite putting in hours of toil and dedication, they may never reach the same level of proficiency and fulfillment as they might in a more fitting role, such as in an artistic or design field. Recognizing where our true potential lies can redirect our efforts toward pursuits where we can be most effective and find genuine joy. By doing so, our hard work is no longer a battle against ourselves but rather harmonizes with our innate capabilities, resulting in both productive outcomes and personal satisfaction.
+To embody the role of a writer, one must actively engage in the process of writing. This simple yet profound advice from Epictetus captures the essence of action as a fundamental step in becoming what you aspire to be. It's easy to get caught up in the idea of what it means to be a writer—imagining the perfect conditions, searching for inspiration, or waiting until you feel ready. However, none of these contemplations will result in a single sentence on the page. In modern life, this principle extends to countless ambitions: if you wish to be a runner, run; if you want to learn a new language, start speaking it; if you desire to master any skill, the key lies in doing. By taking that first step and committing to regular practice, you gradually refine your craft, gain experience, and inevitably move closer to your goal. The barriers often lie within inaction, overthinking, and fear of imperfection. So embrace the process, however imperfect it may begin, and let the act of doing transform you into what you wish to become. In a world full of distractions and excuses, taking action is what truly differentiates dreamers from doers.
 <!--END_SECTION:quote-interpretation-->
 </p>
