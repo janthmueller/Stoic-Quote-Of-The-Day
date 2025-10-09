@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Wednesday, October 08, 2025
+Thursday, October 09, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Demand not that events should happen as you wish; but wish them to happen as they do happen, and you will go on well.
+Never praise or blame people on common grounds; look to their judgements exclusively. Because that is the determining factor, which makes everyone's actions either good or bad.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
 Epictetus
@@ -13,6 +13,6 @@ Epictetus
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Epictetus encourages us to embrace reality with acceptance rather than resistance. Life often unfolds in ways that differ from our desires or expectations, bringing unexpected challenges and outcomes. Instead of expending energy wishing for circumstances to change or lamenting when they don't align with our hopes, we are encouraged to accept things as they are. This mindset can lead to greater peace and resilience. Imagine being stuck in traffic when you're in a hurry; it's easy to grow frustrated, wishing for the roads to clear miraculously. Yet, since frustration won't change the situation, choosing to accept the delay can lead to a calmer, more rational response, allowing you to make the best of it—maybe by listening to a podcast or enjoying a moment of reflection. By aligning our wishes with reality, we reduce unnecessary suffering and find a more harmonious way to navigate life’s ups and downs. This doesn't mean resignation to misfortune but rather a shift in perspective that helps us find contentment and strength in how things truly are.
+The heart of Epictetus’ wisdom in this quote lies in understanding that true character is revealed through one’s judgments, rather than surface actions or circumstances. In everyday life, it's easy to get caught up in appearances and label people good or bad based on isolated actions or popular opinion. However, Stoicism urges us to look deeper, to examine the rationale and values guiding a person's decisions. For instance, consider a coworker who frequently disagrees with majority opinions during meetings. It might be tempting to label them as difficult or contrarian. Still, before passing judgment, it would be wise to explore their reasoning. Perhaps they have carefully considered perspectives that challenge the status quo to drive positive change within the company. On the flip side, someone who always seems agreeable and well-liked might not necessarily possess a sound moral compass. Their behavior might stem more from the desire to fit in than from well-considered values. By looking beyond actions to the underlying judgments, we align ourselves more closely with the Stoic principle of valuing wisdom and integrity over superficial measures, cultivating a more thoughtful and fair approach to understanding others.
 <!--END_SECTION:quote-interpretation-->
 </p>
