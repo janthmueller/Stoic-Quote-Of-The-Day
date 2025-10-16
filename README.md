@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Wednesday, October 15, 2025
+Thursday, October 16, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-By the toil of others we are brought into the presence of things which have been brought from darkness into light.
+People are not disturbed by things, but by the views they take of them.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Seneca illustrates the interconnectedness of human efforts and how we benefit from the labor and discoveries of others. This timeless wisdom reminds us that much of what enriches our lives today—scientific breakthroughs, artistic expressions, and technological advancements—are gifts from previous generations who worked diligently to illuminate the unknown. We often take for granted the ease with which we access information or enjoy conveniences, forgetting they are the culmination of past endeavors. In modern life, consider how the vast knowledge on the internet or the ease of communication via smartphones stand on the shoulders of scientists, engineers, and thinkers who tirelessly explored and innovated. Seneca’s words encourage us to appreciate these gifts and recognize the collective effort that propels human progress, urging us to contribute in our own way to the light we leave for future generations. This reflection nurtures gratitude and a sense of responsibility to continue this chain of enlightenment, ensuring that we strive not merely for personal gain but for the advancement of society as a whole.
+Epictetus invites us to recognize that our emotional disturbances stem not from the events themselves but from the interpretations we assign to them. Imagine getting caught in a traffic jam when you're already late; the traffic is just the traffic—a neutral event. Yet, your response—frustration, stress, or even anger—arises from your perception that this delay is a personal affront or disaster. If instead, you view the situation as an opportunity to listen to a podcast or reflect quietly, your emotional reaction shifts. This illustrates a central tenet of Stoicism: the power and responsibility we have over our perceptions and judgments. By cultivating a mindset that anticipates and accepts life's unpredictabilities without assigning undue negativity, we can navigate daily challenges with serenity and resilience. Applying this perspective can transform how we engage with everything from frustrating delays to more serious life challenges, helping us maintain composure and focus on what we can control—our thoughts and responses.
 <!--END_SECTION:quote-interpretation-->
 </p>
