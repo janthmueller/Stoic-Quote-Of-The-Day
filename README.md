@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Saturday, October 18, 2025
+Sunday, October 19, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Everyone hustles his life along, and is troubled by a longing for the future and weariness of the present.
+Give me by all means the shorter and nobler life, instead of one that is longer but of less account!
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-The hustle of life often draws us into a constant chase for the future, blinded by ambitions and desires for what is yet to come, while we grumble about our present situation. We find ourselves daydreaming about the next promotion or the perfect relationship, believing that happiness lurks just around the corner. In doing so, we miss the value of the present moment, overshadowing the beauty in everyday experiences and the people around us. By remaining overly focused on what's next, we overlook the small joys, like a quiet morning coffee or a shared laugh with a friend. This can lead to a sense of perpetual dissatisfaction, as future moments are never guaranteed to bring the peace or fulfillment we imagine. Today's culture, with its relentless pace and social media influences measuring success by future achievements, amplifies this anxiety. Embracing the present—acknowledging what we have now and finding gratitude for it—can transform how we experience life, bringing contentment and grounding us in the only time that truly exists: the here and now.
+Epictetus speaks to the idea that the quality and virtue of one's life far outweigh mere length of years. In our everyday lives, this means striving for a noble life filled with meaningful experiences, purposeful actions, and self-improvement rather than just seeking to prolong our days without intention. It suggests that a life lived with integrity, kindness, and wisdom—although potentially shorter—is more valuable than a longer life devoid of purpose or substance. Consider the difference between spending years without passion or principles versus embracing each day with gratitude and a focus on what truly matters: our character and the impact we leave on others. Whether it’s dedicating time to helping others, engaging in fulfilling work, or simply creating joyful moments, this perspective encourages us to focus not on how long we live, but on how well we live. A life of value is one where our actions align with our values, leaving a legacy of meaning, rather than just a tally of years.
 <!--END_SECTION:quote-interpretation-->
 </p>
