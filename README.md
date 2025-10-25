@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Friday, October 24, 2025
+Saturday, October 25, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Freedom is not archived by satisfying desire, but by eliminating it.
+But he must have richly dyed purple clothes, woven with gold thread and decorated with multicoloured patterns: it is his fault, not nature’s, if he feels poor.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Epictetus
+Seneca
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-True freedom, as Epictetus suggests, comes not through the acquisition of everything we yearn for, but by liberating ourselves from those very desires. This is a perspective that often runs counter to modern consumer culture, which encourages the constant pursuit of material goods, experiences, or status to achieve happiness. However, this relentless chase often leaves us feeling unsatisfied and trapped in an endless cycle of wanting more. Imagine the constant pressure to acquire the latest gadgets or to continually upgrade one's lifestyle—efforts that can lead to stress, debt, and dissatisfaction. By learning to eliminate unnecessary desires, to distinguish between what we truly need and what merely distracts us, we create space for inner peace and contentment. When we let go of the compulsion to always have more, whether it's possessions, recognition, or power, we gain the freedom to appreciate and find fulfillment in the present moment. This approach to life encourages us to focus on cultivating what is within our control, like our reactions and attitudes, rather than accumulating external possessions. By practicing contentment with what we already have, we can begin to experience genuine freedom and joy that is independent of external circumstances.
+In this passage, Seneca highlights how our perception of wealth and poverty is often shaped more by our desires and standards than by any actual need. He uses the vivid imagery of someone who requires luxurious, extravagant clothing to feel wealthy, to suggest that it is not an objective condition of poverty imposed by nature but a subjective dissatisfaction created by one's own unmet expectations. In modern life, this idea resonates when people always long for the latest gadgets, designer clothes, or high-status cars to feel successful or fulfilled. Rather than appreciating what they have, they may feel impoverished because they constantly compare themselves to others who seem to have more. Seneca suggests that if we shift our mindset away from excessive desires and external validations, we can find contentment and richness in simplicity and self-sufficiency. By valuing what we already possess and understanding that true wealth comes from within, we liberate ourselves from the endless pursuit of possessions that ultimately do little to satiate our deeper sense of contentment and value.
 <!--END_SECTION:quote-interpretation-->
 </p>
