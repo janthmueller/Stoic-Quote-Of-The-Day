@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Tuesday, October 28, 2025
+Wednesday, October 29, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Everywhere means nowhere. When a person spends all his time in foreign travel, he ends by having many acquaintances, but no friends.
+What concerns me is not the way things are, but the way people think things are.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <p align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-The heart of Seneca's message lies in the importance of depth over breadth when it comes to personal connections and experiences. Constantly flitting from one place to another in pursuit of adventure or novelty might yield a colorful array of experiences and people, yet it risks fostering superficial relationships and a fragmented sense of belonging. Today, this might parallel a life spent hopping from job to job, scrolling through endless social media feeds, or chasing the latest trends without truly investing in or committing to anything meaningful. While it can be exhilarating to collect diverse encounters and acquaintances, they often lack the richness and fulfillment that come from deeper, sustained interactions. By slowing down and embracing presence and connection, akin to nurturing a few close friendships rather than accumulating countless casual ones, we cultivate a sense of rootedness and true understanding. In essence, Seneca advises us to find substance and fulfillment not in the quantity of our experiences or social interactions, but in their quality—encouraging us to immerse ourselves fully in fewer, more meaningful aspects of life to forge genuine relationships and a sense of home.
+Epictetus invites us to reflect on the nature of perception and reality, highlighting the profound impact our thoughts have on our experiences. It's not merely the external events themselves that disturb us, but rather our interpretations and judgments about those events. Consider the scenario of a job loss. The raw fact is that employment has ended, but the distress arises from thoughts like "I’ll never find another job," or "I’m a failure." These thoughts amplify upset, clouding our ability to respond constructively. By recognizing that it's our perception—the lens through which we view circumstances—that shapes our reality, we gain the power to reshape our inner dialogue. This awareness allows us to approach life with resilience, choosing thoughtful, balanced perspectives that sustain well-being. In our everyday encounters, this means pausing to assess how we interpret challenges and opting for views that contribute to personal growth and peace. Such an approach not only reduces unnecessary worry but also opens up space for clarity and effective action, improving the quality of both our inner life and interactions with the world.
 <!--END_SECTION:quote-interpretation-->
 </p>
