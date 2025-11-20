@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Wednesday, November 19, 2025
+Thursday, November 20, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Spurn everything that is added by way of decoration and display by unneccesary labour. Relect that nothing merits admiration except the spirit, the impressiveness of which prevents it from being impressed by anything.
+Seek not the good in external things;seek it in yourselves.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-True admirability lies not in external adornments but within the resilience of the human spirit. In an age where digital validation and material embellishments are often pursued as symbols of success or worth, it's easy to be caught up in superficial pursuits that demand unnecessary effort. Yet, the kind of achievement that truly deserves our respect does not depend on outward displays or excessive labor to enhance our appearance or status. Instead, it is the strength of character and the inner fortitude that prevent us from being swayed by these ephemeral embellishments that truly holds value. Much like weathering a storm with an unwavering resolve or navigating life's challenges without anxiety over external judgments, focusing on cultivating such inner resilience and autonomy is key. When your spirit remains undisturbed by the glint of external allure, you find a robust center within yourself, freeing you from the endless cycle of comparison and societal pressures. Thus, in any pursuit, endeavor to polish the virtues of your inner world—it is the lasting, unadorned strength of your spirit that warrants genuine admiration and guides you through the vicissitudes of contemporary life.
+Epictetus's advice encourages us to shift our focus from seeking happiness and fulfillment in external, uncontrollable circumstances to finding it within the bounds of our own character and mindset. In today's fast-paced world, there's a common misconception that success and contentment are tied to external achievements, like acquiring wealth, status, or material possessions. However, these external factors are fleeting and largely beyond our control, and relying on them for happiness often leads to disappointment and a never-ending chase for more. By turning our attention inward and cultivating virtues such as patience, resilience, and kindness, we build a stable foundation for genuine contentment. For instance, someone striving for constant validation through social media likes might end up feeling empty and anxious. By shifting their focus to developing personal skills or deepening relationships with those around them, they might find a more lasting sense of purpose and joy. Ultimately, by recognizing that true fulfillment stems from how we choose to react to life's inevitable ups and downs, we embrace our inherent power to maintain tranquility and satisfaction, irrespective of external circumstances.
 <!--END_SECTION:quote-interpretation-->
 </div>
