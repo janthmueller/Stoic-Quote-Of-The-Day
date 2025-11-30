@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Saturday, November 29, 2025
+Sunday, November 30, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-In the morning when thou risest unwillingly, let this thought be present - I am rising to the work of a human being. Why then am I dissatisfied if I am going to do the things for which I exist and for which I was brought into the world?
+You are retained as counsel for unhappy mankind. You have promised to help those in peril by sea, those in captivity, the sick and the needy, and those whose heads are under the poised axe. Whither are you straying? What are you doing?
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Marcus Aurelius
+Seneca
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Each day, as we reluctantly leave the comfort of our beds, it's helpful to remind ourselves that we rise to fulfill our purpose as human beings. From the perspective of Marcus Aurelius, this daily routine isn't merely a task or a burden; it's an invitation to engage with life through the unique roles we play—whether as caretakers, professionals, students, or friends. In today's hectic world, where the allure of snoozing even for just a few more minutes can be powerful, remembering our innate purpose can transform mundane obligations into meaningful opportunities. This mindset shift encourages us to embrace the responsibilities that define and give structure to our existence. By redirecting our focus from feelings of dissatisfaction to the value inherent in our duties, we cultivate a sense of motivation and fulfillment, understanding that each day is a chance to actualize our potential and contribute to the world around us. Thus, the morning hesitance becomes a reminder of the broader picture: that we are here to live actively and purposefully, in harmony with our nature and capacities.
+In this quote, Seneca encourages us to focus on the essential responsibility we bear toward our fellow human beings, serving as a compassionate force in their lives. This timeless idea reminds us that amidst life's distractions and personal pursuits, we have a duty to aid those in distress—whether they are navigating turbulent times, enduring the shackles of hardship, battling illness, or teetering on the brink of emotional or literal crisis. Just as a lawyer would be dedicated to offering counsel and support during troubled times, we are gently urged to examine our actions and intentions, ensuring we do not stray from our role to offer empathy and assistance. In our modern world, this might manifest in various ways: offering a listening ear to a stressed colleague, volunteering to help those less fortunate in our community, or even reaching out to a friend who is facing a personal crisis. The essence is to stay present and consciously choose to enact good, rather than getting swept away by the superficial or self-centered aspects of life. By actively embracing this role, we cultivate not only compassion and wisdom but also a deeper connection, both to ourselves and to the broader human experience.
 <!--END_SECTION:quote-interpretation-->
 </div>
