@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Friday, December 05, 2025
+Saturday, December 06, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Why not stop trying to prevent posterity being silent about you? You were born to die, and a silent funeral is less bothersome.
+So it is: we are not given a short life but we make it short, and we are not Ill-supplied but wasteful of it.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
 Seneca
@@ -13,6 +13,6 @@ Seneca
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Seneca's words invite us to consider the fleeting nature of life and the often misguided pursuit of immortal fame. In the hustle and bustle of modern life, many people are driven by a desire to leave a lasting legacy, spending their time seeking recognition, awards, or a place in history books. Yet, Seneca reminds us of the inevitability of our mortality: we are all born with the certainty of death. Instead of worrying about how future generations will remember us—or whether they will remember us at all—we might find more peace by focusing on living meaningfully in the here and now. This isn't about being indifferent, but rather accepting that being constantly concerned with our posthumous reputation can detract from the joys and responsibilities that lie within our everyday experiences. Much like how stressing over social media likes or maintaining an idealized image can overshadow genuine interactions today, obsessing over our future remembrance can pull us away from sincere connections and contributions we make in our present lives. By letting go of this concern, we might live more freely, celebrating life's moments without the persistent bother of how they might echo in the silent halls of posterity.
+Seneca reminds us that our lives, while finite, are often perceived as shorter not because of their duration but because of how we misuse our time. The key lies not in the quantity of time we have but in how we choose to spend it. Each day provides us with countless opportunities and moments brimming with potential, yet we often squander them on trivial pursuits or distractions. In contemporary society, this can be seen in how we obsess over social media, binge-watch shows out of habit, or engage in endless streams of superficial tasks, all the while convincing ourselves of being busy. These activities, though they may fill our days, often leave us feeling unfulfilled. By aligning our actions more closely with our true values and priorities, we can make our lives fuller and more meaningful. It's a call to invest our time wisely in activities that enrich our intellect, nurture our relationships, and serve a greater purpose. By doing so, we can transform each moment into something valuable and ensure that our lives feel not only long in years but also rich in quality and depth.
 <!--END_SECTION:quote-interpretation-->
 </div>
