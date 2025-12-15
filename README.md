@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Sunday, December 14, 2025
+Monday, December 15, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-How much time he saves who does not look to see what his neighbor says or does or thinks.
+Men are disturbed, not by things, but by the principles and notions which they form concerning things.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Marcus Aurelius
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Marcus Aurelius' reflection emphasizes the importance of focusing on our own paths rather than becoming entangled in the actions, words, or judgments of others. In a world where social media encourages constant comparison and judgment, this wisdom suggests that when we redirect our attention away from scrutinizing others, we reclaim valuable time and mental energy. Consider, for instance, how much more productive a day becomes when we aren't preoccupied with monitoring others' achievements or trying to match their lifestyles. By detaching from this tendency, we free ourselves to concentrate on what truly matters to us, nurturing our goals and cultivating personal growth. Ignoring the cacophony of voices around us allows us to reflect inwardly, make decisions aligned with our values, and ultimately lead a more serene and purpose-driven life. In everyday terms, it might mean choosing to spend a quiet afternoon on a hobby or a project that fulfills us instead of scrolling endlessly through feeds that often inspire little more than distraction or envy. This mindful focus ensures that our time is spent not in the shadow of others but in spaces that enrich our own existence.
+In our daily lives, we often find ourselves distressed not by the actual events or circumstances we encounter, but by the interpretations and judgments we attach to them. Imagine receiving a critical email from your boss; the email itself is just words on a screen, but it's your perception of those words that can lead to feelings of anxiety or frustration. Perhaps you worry it reflects poorly on your performance, leading to stress. What Epictetus suggests is that our emotional disturbance stems not from the email itself, which is a neutral event, but from our preconceived notions about what it means for our self-worth, job security, or future. By recognizing that our emotional turmoil originates from within our own minds, we gain the power to reframe these situations. Instead of seeing the email as a blow to your competence, you might choose to view it as constructive feedback and an opportunity for growth. In essence, this Stoic wisdom encourages us to cultivate a mindful awareness of our perceptions, helping us to respond to life's challenges with greater equanimity and resilience. This approach can transform how we engage with the world, allowing us to see obstacles as opportunities and to maintain our inner peace amid the storms of everyday life.
 <!--END_SECTION:quote-interpretation-->
 </div>
