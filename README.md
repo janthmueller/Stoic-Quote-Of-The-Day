@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Friday, December 26, 2025
+Saturday, December 27, 2025
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-In no great while you will be no one and nowhere, and nothing that you now behold will be in existence, nor will anyone now alive. For it is in the nature of all things to change and alter and perish, so that others may arise in their turn.
+Here are thieves and robbers and tribunals: and they that are called tyrants, who deem that they have after a fashion power over us, because of the miserable body and what appertains to it. Let us show them that they have power over none.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Marcus Aurelius
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-In our fast-paced world, it's easy to forget that much of what occupies our time and concerns us deeply is temporary. This passage by Marcus Aurelius gently nudges us to reflect on the transitory nature of life and existence. Think of your daily commute through a bustling city; skyscrapers standing tall, people rushing by, absorbed in their lives. Yet, history shows us that even the most solid-looking structures erode over time, and the people will, in the grand timeline of the universe, soon also fade away. This isn't a call to despair, but rather an invitation to appreciate the present moment and understand that change is inevitable. Just as an old tree falls to nourish the earth for new growth, we too play our part in a cycle that renews continually. In recognizing that nothing remains the same forever, we can find solace and motivation to embrace life’s moments as they come, knowing they make way for what is to come. By accepting the ebb and flow of existence, we free ourselves from the anxiety of trying to control the fleeting passage of time and instead focus on living meaningfully, fostering connections, and contributing positively to the lives around us.
+In our modern world, it's easy to feel overwhelmed by external forces that seem to control aspects of our lives—whether it's demanding bosses, government regulations, or societal pressures. This ancient insight from Epictetus encourages us to recognize that true power lies not in these external influences but within our own minds and choices. The "thieves and robbers" of today could manifest as negative opinions or toxic work environments that seem to dictate our emotions and self-worth. Similarly, "tyrants" might be those individuals or systems that appear to dictate our circumstances, often linked to material possessions or social status. By understanding that these external entities primarily affect our physical circumstances rather than our inner selves, we reclaim control. In essence, they can only hold power over what is unimportant—fleeting possessions or temporary situations—because our true freedom resides in our ability to choose our responses and maintain our moral integrity. When confronted with daily stressors or perceived injustices, remembering that no one can truly dominate our inner peace reminds us of the perennial strength and autonomy we possess, regardless of the external chaos.
 <!--END_SECTION:quote-interpretation-->
 </div>
