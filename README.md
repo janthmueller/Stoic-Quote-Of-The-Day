@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Friday, January 09, 2026
+Saturday, January 10, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-It is the evil mind that gets first hold on all of us.  Learning virtue means unlearning vice.  We.
+For this is what makes us wicked: that no one of us looks back over his own life. Our thoughts are devoted only to what we are about to do. And yet our plans for the future always depend on the past.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
 Seneca
@@ -13,6 +13,6 @@ Seneca
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Seneca's words remind us of the human tendency to gravitate toward negative or harmful thoughts and behaviors before we understand how to live virtuously. It's as if our untrained minds naturally latch onto what might not serve us well, like defaulting to impatience in traffic or holding grudges against those who wrong us. The process of learning to lead a virtuous life involves consciously recognizing and shedding these initial instincts—unlearning vice, as he puts it. This transformation isn't about an overnight epiphany but rather an ongoing journey. For instance, when we find ourselves overwhelmed with envy over a friend's success, we can instead practice congratulating them sincerely, thereby nurturing a mindset of genuine happiness for others. Similarly, when we notice ourselves slipping into self-doubt or anger, we can pause and question these feelings' roots, gradually cultivating patience, understanding, and self-compassion. In our modern lives, where distractions and negative influences abound, this practice of unlearning bad habits to embrace virtue aligns us with a more thoughtful, peaceful existence. By consciously choosing wisdom, patience, and kindness over our reflexive vices, we grow closer to a life of genuine contentment and resilience.
+In our fast-paced world, it's easy to become consumed with future goals and ambitions, often neglecting the rich lessons our past experiences offer. Seneca reminds us of the importance of reflection, suggesting that our true missteps come when we fail to look back and learn from what has already transpired in our lives. When we don't pause to understand our previous actions and decisions, we risk repeating mistakes, as our future plans inevitably build upon this unexamined foundation. Consider how often we rush into the next job, relationship, or project, propelled by enthusiasm or necessity, without truly digesting past successes or failures. By reflecting on where we've been, we not only draw useful insights but also develop a clearer, more informed path forward. Reflection doesn't just mean reminiscing about pleasant memories; it's about contemplating times when things didn't go as planned, analyzing choices made, and understanding our responses to life's challenges. This practice enriches our personal growth and equips us with wisdom to better navigate the unknowns of the future. Taking time for this introspection transforms us from mere participants in life's events into active, thoughtful architects of our journeys.
 <!--END_SECTION:quote-interpretation-->
 </div>
