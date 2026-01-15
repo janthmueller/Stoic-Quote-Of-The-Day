@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Wednesday, January 14, 2026
+Thursday, January 15, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Fire is the test of gold; adversity, of strong men.
+The greatest hindrance to living is expectancy, which depends upon the morrow and wastes to-day.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
 Seneca
@@ -13,6 +13,6 @@ Seneca
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Life often presents us with challenges and difficulties that can feel overwhelming. These moments of adversity are akin to how gold is tested and purified through fire. Just as fire exposes the true nature and value of gold by burning away impurities, adversity reveals and refines our inner strength and resilience. When we face hardships—whether it's losing a job, dealing with a broken relationship, or confronting personal setbacks—it’s an opportunity to cultivate our character and fortitude. Instead of being discouraged by these trials, we can view them as essential experiences that help us grow stronger, more adaptable, and wiser. Like gold emerging more brilliant from the flames, overcoming life's challenges equips us with a deeper understanding of our capabilities and the ability to navigate future difficulties with confidence. This Stoic perspective encourages us to embrace adversity not with fear, but with the knowledge that these tests ultimately shape and define our true potential.
+Expectancy, or the focus on what tomorrow might bring, often shackles us to a life of waiting and longing, robbing us of the richness that today offers. When we dwell too much on the future, imagining how things will turn out or hoping for certain outcomes, we overlook the present moments that we are actually living. Imagine constantly planning for the weekend while working throughout the week; such anticipation can make five out of seven days seem insignificant, thus sapping our current happiness and engagement. Seneca wisely cautions that this preoccupation with tomorrow can prevent us from recognizing the value and opportunities of the moment we inhabit. In our modern context, with a relentless stream of goals, deadlines, and future plans, it's easy to slip into a pattern of expecting fulfillment that is always just out of reach. By shifting our focus more to the here and now—appreciating a simple conversation with a loved one or finding contentment in our daily tasks—we can break free from the tyranny of tomorrow and truly live today. Embracing the present can transform ordinary moments into extraordinary experiences, fostering a sense of tranquility and fulfillment that's often obscured by the haze of future anticipation.
 <!--END_SECTION:quote-interpretation-->
 </div>
