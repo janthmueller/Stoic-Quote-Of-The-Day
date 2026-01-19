@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Sunday, January 18, 2026
+Monday, January 19, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-A woman is not beautiful when her ankle or arm wins compliments, but when her total appearance diverts admiration from the individual parts of her body.
+There are a few men whom slavery holds fast, but there are many more who hold fast to slavery.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
 Seneca
@@ -13,6 +13,6 @@ Seneca
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-True beauty, according to Seneca, is not found in the isolated admiration of specific features, but in the harmonious whole that captivates the observer. In a contemporary context, this can remind us that superficial judgments based solely on individual components—such as a person's physical attributes, job title, or possessions—miss the essence of true character and charm. Imagine attending a social event where someone’s radiant personality, warmth, and kindness make you feel instantly at ease and valued. You notice that it is not merely their stylish outfit or polished exterior that draws you in, but the way they effortlessly blend these elements with a genuine presence and intellect. This completeness shifts admiration from superficial parts to an appreciation for the person as a whole. Seneca's insight encourages us to look beyond the fragmented praises of physical or material aspects, urging us instead to appreciate and cultivate an integrated beauty that stems from character, actions, and the way we carry ourselves in life. In valuing this holistic integration more than isolated perfections, we learn to admire and strive for authenticity and harmony, both in others and within ourselves.
+Seneca's reflection on slavery touches on more than just the physical chains that bind individuals; it delves into the psychological and emotional chains that people often impose on themselves. While it's undeniable that some people are trapped by external circumstances, many more people find themselves shackled by their own thoughts and attitudes. In contemporary society, this could manifest as someone staying in a job they dislike not out of necessity, but out of fear of change or failure. It could also be seen in personal relationships, where one might feel compelled to meet certain expectations or adhere to societal norms, even if they don't align with one's true self. The internal slavery Seneca refers to is the often invisible, self-imposed limitations and mental barriers that we cling to, comfortable in their familiarity but ultimately restrictive to our growth and happiness. The essence of this wisdom encourages us to recognize these constraints within, urging us to break free from them, thereby attaining a more liberated and fulfilling life. This involves cultivating self-awareness and having the courage to let go of what no longer serves us, which, although challenging, can lead to an authentic sense of freedom and progress.
 <!--END_SECTION:quote-interpretation-->
 </div>
