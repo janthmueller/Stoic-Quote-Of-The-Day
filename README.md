@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Sunday, January 25, 2026
+Monday, January 26, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-It is not that we have a short time to live but that we waste a lot of it.
+Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Marcus Aurelius
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-We often find ourselves lamenting the brevity of life, feeling rushed or overwhelmed as if time is slipping through our fingers. However, Seneca suggests that the real issue isn't how short life is, but rather how much of it we squander. In today's world, filled with countless distractions like social media, streaming services, and constant notifications, it's easy to lose track of time on activities that provide little lasting value. We spend hours scrolling through feeds or binging the latest series, only to find ourselves wondering where the day went. Seneca invites us to reflect on how we allocate our precious time. Instead of frittering it away, we could focus on meaningful pursuits, like nurturing relationships, learning new skills, or engaging in activities that align with our deeper values and goals. By being mindful of how we spend our time, we can make the most of our days, no matter their number, finding fulfillment and deeper satisfaction along the way.
+Marcus Aurelius suggests that our perceptions and interpretations of the world are inherently subjective and colored by our personal experiences and biases. In our modern day, we constantly encounter a flood of information through conversations, media, and social platforms. Each piece of information is often presented through someone's personal lens, reflecting their beliefs, attitudes, and feelings rather than objective reality. For example, when reading a news article or listening to someone's account of an event, it's important to recognize that it’s shaped by decisions about what to include or emphasize and what perspectives to highlight. Similarly, when we observe a situation — such as a disagreement between friends — our interpretation hinges on our viewpoint, possibly influenced by our relationship with those involved or our own past experiences. Embracing this understanding can foster openness and empathy, encouraging us to question our assumptions and seek a broader, more nuanced picture before forming judgments. By acknowledging that our perspectives are just one piece of a larger mosaic, we cultivate a mindset that values curiosity and seeks balance, allowing us to navigate life’s complexities with grace and wisdom.
 <!--END_SECTION:quote-interpretation-->
 </div>
