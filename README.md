@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Saturday, January 31, 2026
+Sunday, February 01, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Those who are well constituted in the body endure both heat and cold: and so those who are well constituted in the soul endure both anger and grief and excessive joy and the other affects.
+Accept the things to which life binds you, and love the people with whom life brings you together, but do so with all your heart.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Epictetus
+Marcus Aurelius
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Much like a resilient body that withstands the trials of weather—whether the scorching heat of summer or the biting cold of winter—a well-constituted soul possesses the strength to endure the emotional extremes life presents. In today's fast-paced world, we often encounter situations that invoke strong reactions: anger when treated unfairly, grief when facing loss, or overwhelming joy during unexpected successes. Just as we train our bodies through exercise and care to resist physical strains, we can cultivate our minds to handle emotional fluctuations with grace and stability. The Stoics believe that by nurturing a balanced inner state, we can navigate life's ups and downs without succumbing to each change in fortune. Practicing mindfulness and embracing a thoughtful perspective allows us to remain composed amid tumultuous emotions, much like keeping our balance on a shifting landscape. By focusing on what we can control—our own responses—we become resilient to external influences, finding peace and strength even in the face of life's inevitable challenges.
+Life constantly presents us with circumstances and relationships that shape our journey, often beyond our immediate control. The essence of Marcus Aurelius’ wisdom lies in embracing these realities with a sense of acceptance and wholeheartedness. In a world where we are encouraged to seek out what is new or to chase after idealized situations, his words remind us to appreciate and invest fully in the here and now. Consider a job situation you didn’t foresee, or a chance meeting with a person who becomes an important part of your life. Instead of resisting these occurrences or longingly wishing for different scenarios, nurturing a mindset of acceptance allows us to find fulfillment and connection within them. By truly engaging with the people and circumstances life places in our path, we nurture a sense of gratitude and presence. This mindful approach encourages meaningful connections and enriches our experiences, fostering a deep-seated contentment and joy. Embracing what life brings with all our heart does not mean forcing affection or uncritically accepting all that is given but rather cultivating a sincere appreciation and engagement with our current reality. This wholehearted approach enables us to find beauty and purpose, even in the routine or unexpected.
 <!--END_SECTION:quote-interpretation-->
 </div>
