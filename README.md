@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Wednesday, February 18, 2026
+Thursday, February 19, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-The body’s needs are few: it wants to be free from cold, to banish hunger and thirst with nourishment; if we long for anything more we are exerting ourselves to serve our vices, not our needs.
+Asked, Who is the rich man? Epictetus replied, "He who is content."
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Seneca’s insight invites us to reassess what is truly essential in our lives. Our bodies require only the basics: protection from the cold, food to quell hunger, and water to satisfy thirst. These are fundamental needs that reflect the simplicity of human survival. However, once we start desiring beyond these necessities—craving luxury items, compulsively pursuing wealth, or indulging in excessive consumption—we unintentionally become servants to our vices rather than our needs. This perspective is strikingly relevant today as we navigate a world filled with advertisements promoting the latest gadgets, fashion trends, or gourmet experiences that suggest they are essential for happiness. Yet, these pursuits can lead to a never-ending cycle of longing and dissatisfaction, as they are extraneous to what our bodies fundamentally require for contentment. By focusing on simple, genuine needs, we create space for inner tranquility and freedom from the burden of superficial desires. Embracing a minimalist approach to living can foster a deeper appreciation for the small, yet significant joys that cannot be purchased, like time spent with loved ones or the peace found in nature. These are the true riches available to anyone who chooses to prioritize need over want.
+In a world that often measures wealth by material possessions and financial status, Epictetus offers a perspective that shifts the focus inward. True richness, according to this Stoic standpoint, lies in contentment, a state of satisfaction that is independent of external circumstances. Consider how modern society frequently suggests that success is tied to acquiring more—be it money, status, or things. Yet, despite reaching these milestones, people may still find themselves searching for fulfillment. Epictetus implies that contentment is the real treasure, achievable by appreciating what you have and finding peace within yourself. Imagine someone who enjoys simple pleasures like a quiet cup of coffee in the morning or a walk in the park. Such moments can bring genuine fulfillment without the need for more. By cultivating gratitude and recognizing the abundance already present in life, one becomes truly rich in spirit. When material desires no longer dictate happiness, an individual can embrace a sense of freedom and tranquility, establishing a sustainable form of wealth that can weather life's inevitable ups and downs.
 <!--END_SECTION:quote-interpretation-->
 </div>
