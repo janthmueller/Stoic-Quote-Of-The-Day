@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Friday, February 20, 2026
+Saturday, February 21, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-For outward show is a wonderful perverter of the reason.
+For we are mistaken when we look forward to death; the major portion of death has already passed. Whatever years be behind us are in death's hands.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Marcus Aurelius
+Seneca
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Marcus Aurelius reminds us that the allure of surface-level appearances can cloud our rationality and make us lose sight of what truly matters. In today's world, where social media often glorifies the superficial—like expensive possessions, perfect appearances, or curated lifestyles—it's easy to be swayed by what we see. This can lead us to make decisions based on envy or the desire for approval rather than our own values and goals. Just as a misleading facade might make us forget the sound structure beneath it, focusing too much on outward success can distract us from nurturing our inner character and personal growth. The true essence of wisdom suggests looking beyond the shiny exterior and focusing on cultivating a more profound sense of purpose and authenticity. By doing so, we align our actions with a deeper understanding and resist being pulled off course by fleeting and often deceptive impressions. In essence, it's about valuing substance over style and ensuring that our decisions are guided by deeper truths rather than transient displays.
+Seneca's words remind us that life is a finite series of moments, and the time that has already passed is like a portion of death itself. Each day lived is a day no longer in our future, bringing us one step closer to life's inevitable end. Instead of fearing death as something distant, if we recognize that we have already partaken in fragments of this ending with each passing moment, we might unlock a profound appreciation for the present. In modern life, this perspective encourages us to shift our focus from anxiously anticipating the end to actively engaging with the life we have now. It’s a gentle nudge to prioritize meaningful experiences and decisions, urging us to cut through distractions and connect deeply with loved ones, passions, and our surroundings. When standing in a traffic jam, for instance, instead of seething with frustration over the delay, this view invites us to recenter our thoughts on the beauty of the world at that moment—perhaps through a podcast, an insightful audiobook, or a simple reflection on the day’s events. By reframing our relationship with time and death, we're invited to live more fully and mindfully, capitalizing on the moments we have to ensure they're filled with purposeful action and genuine connection rather than letting them slip away mindlessly.
 <!--END_SECTION:quote-interpretation-->
 </div>
