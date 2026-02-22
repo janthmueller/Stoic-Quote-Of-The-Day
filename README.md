@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Saturday, February 21, 2026
+Sunday, February 22, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-For we are mistaken when we look forward to death; the major portion of death has already passed. Whatever years be behind us are in death's hands.
+Envy of other people shows how they are unhappy. Their continual attention to others behavior shows how they are boring.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
 Seneca
@@ -13,6 +13,6 @@ Seneca
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Seneca's words remind us that life is a finite series of moments, and the time that has already passed is like a portion of death itself. Each day lived is a day no longer in our future, bringing us one step closer to life's inevitable end. Instead of fearing death as something distant, if we recognize that we have already partaken in fragments of this ending with each passing moment, we might unlock a profound appreciation for the present. In modern life, this perspective encourages us to shift our focus from anxiously anticipating the end to actively engaging with the life we have now. It’s a gentle nudge to prioritize meaningful experiences and decisions, urging us to cut through distractions and connect deeply with loved ones, passions, and our surroundings. When standing in a traffic jam, for instance, instead of seething with frustration over the delay, this view invites us to recenter our thoughts on the beauty of the world at that moment—perhaps through a podcast, an insightful audiobook, or a simple reflection on the day’s events. By reframing our relationship with time and death, we're invited to live more fully and mindfully, capitalizing on the moments we have to ensure they're filled with purposeful action and genuine connection rather than letting them slip away mindlessly.
+Envy often reveals more about the envious person's inner dissatisfaction than about the person they envy. When someone spends significant energy fixating on others, it suggests a sense of unhappiness with their own life. Imagine, for instance, someone scrolling obsessively through social media, comparing their own life to the carefully curated highlights others share. This habit might point to underlying discontent or insecurity. Moreover, constantly observing and critiquing others can indicate a lack of fulfillment or purpose in one's own pursuits. By living vicariously through others, such a person misses out on participating in their own story. In both ancient times and today, finding gratitude in one's own circumstances and interests can lead to a richer, more satisfying life, leaving less room for envy or boredom. Engaging deeply with one's own passions and goals fosters contentment that minimizes the need to measure one's worth against someone else's.
 <!--END_SECTION:quote-interpretation-->
 </div>
