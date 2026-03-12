@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Wednesday, March 11, 2026
+Thursday, March 12, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-It is a universal law — have no illusion — that every creature alive is attached to nothing so much as to its own self-interest.
+I think the pinnacle of misfortune is to be forced by chance to want things one should loathe.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Epictetus
+Seneca
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-At the heart of Epictetus's observation lies the understanding that every being is innately driven by self-interest, a fundamental aspect rooted in survival and personal well-being. This doesn't imply selfishness in a negative sense but rather highlights a natural instinct to prioritize one's needs and protect oneself. Imagine standing in a crowded subway; when the train suddenly jolts, your immediate reaction is to steady yourself and ensure your own balance before you think of others. This instinctual focus on self-preservation is mirrored in how people often seek comfort, safety, and happiness. Yet, recognizing this universal tendency can foster empathy and patience when interacting with others, acknowledging that their actions are often guided by this innate drive. By understanding this, one can cultivate healthier relationships, develop patience, and perhaps even find harmony between personal desires and collective well-being, whether in professional settings where team dynamics depend on balancing individual and group interests or in personal life where compromises seek to align differing needs.
+In a world where desires are often shaped by external pressures and fleeting trends, finding oneself wanting things typically deemed undesirable signifies a profound internal conflict. Seneca highlights the sorrow of letting chance dictate our cravings, leading us to seek what should be avoided. This can be likened to today’s relentless push towards material success, where people might find themselves longing for excessive wealth, not for fulfillment, but due to societal expectations. Imagine someone who, due to peer pressure and media influence, begins to aspire to a lifestyle of constant luxury and indulgence, despite knowing it fosters superficiality and dissatisfaction. Such misaligned desires can detach individuals from their core values, pushing them towards actions that ultimately feel hollow. By cultivating awareness and intentionality, we can guard against these misplaced longings and strive to align our wants with our true nature, embracing simplicity, virtue, and inner peace. Retaining autonomy over our desires allows us to sidestep the misfortune Seneca warns against, leading us to a life that is authentic and content.
 <!--END_SECTION:quote-interpretation-->
 </div>
