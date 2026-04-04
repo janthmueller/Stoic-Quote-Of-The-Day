@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Friday, April 03, 2026
+Saturday, April 04, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-If you are pained by external things, it is not they that disturb you, but your own judgement of them. And it is in your power to wipe out that judgement now.
+Consider how much more pain is brought on us by the anger and vexation caused by such acts than by the acts themselves, at which we are angry and vexed.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
 Marcus Aurelius
@@ -13,6 +13,6 @@ Marcus Aurelius
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-In our daily lives, we often encounter situations that cause us distress or discomfort, like a rude remark from a colleague or unexpected traffic on our commute. However, it is important to recognize that the discomfort we feel from these external events stems not from the events themselves, but from our personal interpretations of them. Marcus Aurelius, a Stoic philosopher, suggests that we have the power to change or eliminate these judgments. If someone insults us, it is not the insult that causes distress, but our decision to perceive it as hurtful and significant. Similarly, being stuck in traffic is frustrating primarily because we judge it as a wasted time instead of an opportunity for a moment of quiet or listening to a favorite podcast. By re-evaluating our judgments and recognizing that our distress comes from how we choose to perceive and react, we can regain control over our emotions. We have the capacity to respond with calm acceptance rather than resignation, refocusing our energy on things within our control—like our thoughts, focus, and reactions—and this shift empowers us to lead a more peaceful and balanced life amidst the inevitable fluctuations of modern living.
+Anger and vexation often inflict greater harm upon us than the events that initially sparked these emotions. Consider a situation where someone cuts you off in traffic. The act itself is momentary and, while annoying, it could be managed with a deep breath and a return to focus. However, if you allow anger to take hold, the annoyance amplifies; you carry the rage with you, perhaps clenching the wheel, letting your mood sour, or even affecting your interactions throughout the day. The stress of holding onto anger can cloud judgment, impact relationships, and increase anxiety, creating a spiral that feels much worse than the minor incident of a car changing lanes. By reflecting on the nature of this response, you gain insight into how fleeting events need not dictate emotional well-being. Recognizing that it's within your power to choose calm over anger allows you to navigate life's inevitable irritations with grace, ensuring that your emotional state remains under your control, rather than dictated by transient frustrations.
 <!--END_SECTION:quote-interpretation-->
 </div>
