@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Monday, April 06, 2026
+Tuesday, April 07, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-But when you are looking on anyone as a friend when you do not trust him as you trust yourself, you are making a grave mistake, and have failed to grasp sufficiently the full force of true friendship.
+No man, if he be ungrateful, will be unhappy in the future. I allow him no day of grace; he is unhappy forthwith.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
 Seneca
@@ -13,6 +13,6 @@ Seneca
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-True friendship, as Seneca suggests, is a bond built on unwavering trust and an unshakable sense of security. When we label someone as a friend but remain hesitant to rely on them as we do on ourselves, it suggests that the fundamental elements of mutual trust and understanding are missing. In contemporary terms, consider the relationships in our lives where we share parts of our struggles, joys, and vulnerabilities. Imagine having a friend who is there for the light moments but nowhere to be found when life demands our deeper, rawer sides to be shown and supported. Such relationships may lack the depth required for genuine friendship, which thrives on the confidence that our friends hold our best interests at heart just as fiercely as we do. Trust is not just about sharing secrets; it’s about having the reassurance that they will act as a steadfast support and guide. Reflecting on our friendships, it might mean nurturing relationships where transparency, loyalty, and reliable presence move us beyond surface-level interactions to form bonds that are mutually enriching and enduring.
+Ungratefulness saps one’s happiness not just by turning the future bleak but by dimming the present moment. When someone is ungrateful, they lack the ability to appreciate the good in their current circumstances, which leads to an immediate sense of dissatisfaction and unhappiness. This absence of gratitude negates the joy that might otherwise be experienced, irrespective of future events. Picture a person who receives a thoughtful gift but focuses solely on the imperfections they perceive; they deny themselves the pleasure of the gesture. By reframing situations to find something to appreciate—a warm bed, a kind word, or even a challenge that teaches resilience—we can nurture contentment within ourselves, regardless of life's uncertainties. This perspective reminds us to cultivate gratitude as a means of fostering happiness now, not in a distant, speculative future. In today's fast-paced world, where distractions abound and aspirations often overshadow accomplishments, grounding ourselves in gratitude can transform our daily experiences into sources of lasting fulfillment.
 <!--END_SECTION:quote-interpretation-->
 </div>
