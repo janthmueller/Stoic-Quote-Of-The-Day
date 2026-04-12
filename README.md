@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Saturday, April 11, 2026
+Sunday, April 12, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Preach not to others what they should eat, but eat as becomes you and be silent.
+Whoever then would be free, let him wish for nothing, let him decline nothing, which depends on others; else he must necessarily be a slave.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
 Epictetus
@@ -13,6 +13,6 @@ Epictetus
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Epictetus's words remind us to focus on our own actions and personal growth rather than dictating the choices of others. In the context of eating, or any lifestyle choice, it suggests that we should prioritize living our values authentically rather than imposing them on others. In today's world, where social media platforms are inundated with opinions on diet, wellness, and lifestyle choices, it can be tempting to broadcast our beliefs and persuade others to follow the same path. However, the essence of this Stoic teaching is about leading by example. By embodying our principles quietly and consistently, we inspire others not with noise, but with the strength of quiet conviction and personal integrity. It encourages a focus on self-discipline and self-reflection, affirming that actions speak louder than words. In scenarios where we might feel compelled to correct or criticize someone else's choices—from a colleague's lunch habits to a neighbor's exercise routine—Epictetus gently guides us to concentrate on our own journey of self-improvement. By nurturing a sense of humility and minding our conduct, we contribute to a more understanding and less judgmental community, letting others learn from our integrity and peace of mind.
+In today's fast-paced world, we often find ourselves yearning for things that are beyond our control—like a promotion at work or the approval of others—and declining things we perceive as negative, like criticism or obstacles. Epictetus, in this insightful advice, points out that true freedom comes from within, by disentangling ourselves from these external dependencies. When our happiness hinges on factors we cannot control, we become like slaves to these external circumstances, constantly reacting and adjusting to them in search of satisfaction. Embracing a mindset where we focus on what is within our control, such as our own actions, responses, and attitudes, can liberate us. For instance, rather than wishing for perfect weather for an upcoming event, we can prepare for all possibilities and adapt our expectations. Similarly, instead of letting a colleague's opinion shape our self-esteem, we can focus on how we can improve independently. By choosing not to wish for or against what others control, we foster inner peace and resilience, standing firm in our own agency and contentment. This empowers us to navigate life's uncertainties with grace, aligning our happiness with personal growth and internal values rather than external validations and uncontrollable events.
 <!--END_SECTION:quote-interpretation-->
 </div>
