@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Sunday, May 03, 2026
+Monday, May 04, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Your happiness depends on three things, all of which are within your power: your will, your ideas concerning the events in which you are involved, and the use you make of your ideas.
+Virtue is according to nature; vice is opposed to it and hostile.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Epictetus
+Seneca
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Happiness, according to Epictetus, is largely a matter of how we choose to engage with the world through our will, our perceptions, and how we apply those perceptions. It's empowering to recognize that true contentment doesn’t depend on external events but on the internal workings of our mind and spirit. In modern life, this might translate to our reaction to a delayed flight—a situation outside our control. While many may succumb to frustration and impatience, we have the power to exercise our will by choosing a composed attitude. Consider the event as an opportunity to catch up on reading or simply as a moment of respite. Our ideas about the delay, whether a nuisance or a brief pause in a hectic schedule, deeply influence our experience. By consciously using these ideas to maintain a balanced outlook, we cultivate a happiness that withstands life’s unpredictability. This practice encourages resilience and a deeper, more enduring sense of satisfaction. Just like navigating daily traffic or dealing with unexpected work challenges, the way we deploy our thoughts and ideas shapes a life filled with meaning, irrespective of outward circumstances.
+Seneca's statement highlights the Stoic belief that living virtuously aligns with our true nature, whereas vice leads us astray, creating internal conflict. Imagine you're river rafting: the natural flow of the river represents living with virtue—choices characterized by wisdom, courage, justice, and temperance. When you align with this flow, your journey is smoother, even in turbulent waters, because it's in sync with who you inherently are. On the other hand, vice—embodied by greed, anger, or deceit—resembles trying to paddle upstream against this current. Not only is it exhausting, but it also distances you from your intended path, leading to internal strife and dissatisfaction. In modern life, this can be seen in how honesty and integrity align us with peace and purpose, while deceit or malice brings about turmoil and stress. Embracing virtues is not just moral; it harmonizes with human nature, guiding us toward a fulfilling life marked by inner peace and resilience.
 <!--END_SECTION:quote-interpretation-->
 </div>
