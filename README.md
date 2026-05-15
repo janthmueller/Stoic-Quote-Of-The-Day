@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Thursday, May 14, 2026
+Friday, May 15, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-We suffer not from the events in our lives but from our judgement about them.
+But the man who is not puffed up in good times does not collapse either when they change.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Epictetus
+Seneca
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Epictetus highlights a fundamental teaching of Stoicism: the idea that it's not the external events themselves that disturb us, but how we perceive and interpret these events. In the hustle and bustle of modern life, consider a scenario where you're stuck in traffic on your way to an important meeting. The fact that you're going to be late is simply an occurrence—a neutral fact. However, if you choose to see this as a catastrophe, you might start feeling anxious, angry, or stressed. This emotional turmoil arises not from the traffic itself but from your judgment about it, possibly thinking that this delay says something negative about your reliability or competence. By practicing Stoic principles, one might reframe the situation, viewing it as an opportunity to practice patience or listen to a podcast you've been meaning to catch up on. This shift allows you to remain calm and maintain your inner peace despite the delay. In broader terms, this teaching encourages us to examine our reactions and judgments, empowering us to cultivate a mindset that approaches life's challenges with equanimity and resilience.
+In the rhythm of life, just as day follows night, good times can be followed by challenging ones; understanding this truth can fortify our emotional resilience. Embracing Seneca's wisdom, we learn that maintaining a balanced attitude regardless of circumstances leads to greater stability. When things are going well—whether it be a thriving career, harmonious relationships, or personal achievements—it's important to stay grounded and not permit success to inflate our egos. This humility ensures that when the tides turn, and life introduces difficulties, we are not devastated. Consider someone who, during a booming economy, remains cautious with their finances, avoiding excesses despite rising prosperity. When the economy downturns, which it inevitably does, they are better positioned to face these challenges without undue stress. In essence, by avoiding the extremes of elation in prosperity and despondency in adversity, we create a steady state of inner peace. This equanimity offers us the strength to navigate life's vicissitudes with grace, enhancing our capability to find solutions and remain hopeful even in the face of change.
 <!--END_SECTION:quote-interpretation-->
 </div>
