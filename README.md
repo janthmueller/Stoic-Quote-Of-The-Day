@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Friday, July 10, 2026
+Saturday, July 11, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-No man is so faint-hearted that he would rather hang in suspense for ever than drop once for all.
+Leisure without books is death, and burial of a man alive.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
 Seneca
@@ -13,6 +13,6 @@ Seneca
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Even those who may feel timid or afraid must confront the idea that living in uncertainty and constant anxiety is far more draining than confronting a challenge head-on, regardless of the outcome. In our everyday lives, we often find ourselves hesitant to make decisions because of the fear of failure or dissatisfaction with the end result. This might be as simple as deciding to change careers or having a difficult conversation with a loved one. The limbo of indecision can be a heavy burden, overshadowing our ability to experience life fully. Stoic wisdom reminds us that taking decisive action—even if it means facing an unfavorable result—is ultimately less taxing than being caught in the endless loop of 'what-ifs' and doubts. Embracing the fact that a definite outcome, even one that involves an initial setback, is more empowering and freeing than remaining stuck in perpetual uncertainty allows us to build resilience and learn from our experiences, fostering a life of purpose and peace.
+Leisure without books represents the idea that without the enrichment and growth offered by reading, our idle moments can become void of meaning, akin to a stagnant existence. In today’s fast-paced world, where we often find ourselves distracted by fleeting entertainment on our phones or television, the true value of leisure can sometimes be lost. Seneca’s insight highlights the importance of engaging with literature and philosophy, turning our downtime into an opportunity for intellectual and spiritual development. Just as our bodies require nourishment and activity to maintain health and vitality, our minds crave the stimulation and reflection that reading provides. Books open doors to new ideas, expand our understanding of the world, and challenge our perspectives, much like having a conversation with a wise friend who broadens our horizons. In modern life, where constant connectivity can paradoxically lead to isolation and intellectual stagnation, making time for books is a way to nurture our inner life and find joy and meaning in quiet moments. Embracing this practice can transform mere passive rest into an enriching experience, awakening our potential and keeping our minds alive.
 <!--END_SECTION:quote-interpretation-->
 </div>
