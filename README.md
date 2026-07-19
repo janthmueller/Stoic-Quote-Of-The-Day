@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Saturday, July 18, 2026
+Sunday, July 19, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-How late it is to begin really to live just when life must end! How stupid to forget our mortality, and put off sensible plans to our fiftieth and sixtieth years, aiming to begin life from a point at which few have arrived!
+Above all, my dear Lucilius, make this your business: learn how to feel joy.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
 Seneca
@@ -13,6 +13,6 @@ Seneca
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Seneca's observation serves as a gentle reminder of the importance of living with a sense of immediacy and awareness of our finite time. In a world where many of us often postpone our dreams and plans for a distant future, perhaps waiting for retirement or a better financial situation to finally engage in meaningful pursuits, we risk the very real possibility that those plans might never come to fruition. Instead of waiting until we reach an advanced age, potentially missing out on decades of what could be a fulfilling life, we should strive to live more fully in the present. Consider how frequently people defer their joys or passions, postponing that dream vacation, putting off learning a new skill, or neglecting nurturing relationships for yet another busy work year. Seneca encourages us to recognize our mortality and avoid the folly of delaying our engagement with life until it's too late. Embracing the present moment and integrating our long-term aspirations with our current reality can lead to a richer, more meaningful existence. By doing so, we ensure that we are truly living, rather than merely existing, and avoid the regret of realizing the potential of life when it is almost over.
+In today’s fast-paced world, where many of us are continually striving for the next achievement or material possession, finding joy often takes a backseat. Seneca's advice to Lucilius encourages us to cultivate a deeper, more meaningful understanding of joy that derives not from external circumstances, but from within. This perspective invites us to shift our focus away from the relentless pursuit of fleeting pleasures and instead to nurture a sense of contentment that is independent of external highs and lows. Consider how often people find themselves believing they'll be happy once they land that promotion, purchase that new car, or achieve a certain status. Yet, as soon as these goals are reached, the happiness can fade, leading to a cycle of endless chasing. Real joy, as Seneca suggests, arises from appreciating simple moments and embracing the richness of everyday life, such as a kind gesture from a friend, the warmth of sunlight on our face, or the satisfaction of doing meaningful work. By learning to feel and acknowledge this intrinsic joy, we cultivate resilience and a fulfilling sense of peace that remains steady amidst life’s ups and downs. In essence, the practice of joy becomes a sustainable source of strength and equanimity in our daily lives.
 <!--END_SECTION:quote-interpretation-->
 </div>
