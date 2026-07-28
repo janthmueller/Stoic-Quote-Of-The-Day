@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Monday, July 27, 2026
+Tuesday, July 28, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-III. Hippocrates having cured many sicknesses, fell sick himself and died.
+If you wish to put off all worry, assume that what you fear may happen is certainly going to happen.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Marcus Aurelius
+Seneca
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Even the greatest healer, like Hippocrates who once cured numerous ailments, could not escape the inevitability of his own mortality. This reminds us that no matter how proficient or successful we are in our endeavors, we are all subject to the same universal truths, such as sickness and death. Modern life often places a high value on achievements, and many people strive tirelessly for success, hoping to find security or immortality in their work or reputation. Yet, just as Hippocrates, an esteemed physician, could not cure himself of mortality, we too must acknowledge that all things, including life itself, have an end. This understanding encourages us to appreciate the present moment and the life we have, rather than becoming consumed with fears of the future or our eventual decline. By accepting life's impermanence, we can find peace and contentment in the present, focusing on living well and meaningfully today rather than striving endlessly against the unchangeable facts of existence.
+When we constantly dwell on potential negative outcomes, our minds become ensnared in worry and anxiety, creating a cycle of fear that drains our energy and peace. Seneca encourages us to confront these fears head-on by acknowledging the worst-case scenario as if it were certain to occur. This radical acceptance allows us to prepare ourselves mentally and emotionally, reducing the power these fears hold over us. In contemporary life, we often stress over uncertainties, whether it’s a work presentation, financial instability, or health concerns. By accepting that the thing we fear might indeed happen, we paradoxically find freedom. For example, if you're anxious about failing a job interview, embrace the possibility of rejection and visualize the steps you would take afterward. This approach doesn’t make the event more likely, but it does strip it of its paralyzing grip, allowing you to focus on the present moment and respond more effectively. It redirects our mindset from avoidance to readiness, instilling resilience and encouraging us to live with a clearer, more grounded perspective.
 <!--END_SECTION:quote-interpretation-->
 </div>
