@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Thursday, July 30, 2026
+Friday, July 31, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Any man,’ he says, ‘who does not think that what he has is more than ample, is an unhappy man, even if he is the master of the whole world.
+Tranquillity is nothing else than the good ordering of the mind.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Marcus Aurelius
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-In a world that often equates success with acquiring more—more money, more possessions, more power—Seneca reminds us that true contentment comes from appreciating what we already have. This is a profound insight into human happiness: an individual's discontent doesn't arise from their lack of possessions but from their perspective on those possessions. Consider someone who never feels satisfied, always chasing after the latest technology or a bigger paycheck. Even if they achieve everything they desire, dissatisfaction lingers because their happiness is contingent on external validations. The cycle becomes endless and exhausting. On the other hand, think of a person who finds joy in simple moments—a shared meal with a friend, a quiet cup of coffee at dawn. They might not have the latest gadgets or the highest status, but in recognizing the abundance in these small pleasures, they find a deep and lasting satisfaction. In today's fast-paced society, where comparison and consumerism are rampant, adopting Seneca's approach could transform our happiness. By cultivating gratitude and embracing the sufficiency in our lives, we redirect our focus from scarcity to abundance, nurturing a sense of peace and fulfillment regardless of our circumstances.
+The idea that tranquillity stems from the good ordering of the mind speaks to the power we have over our own inner peace. In today’s world, where chaos and noise seem inescapable, it's easy to feel overwhelmed by external stressors—whether from work, relationships, or global events. Yet, like an artist who arranges their tools before creating a masterpiece, we can cultivate a calm mind by thoughtfully managing our thoughts and emotions. This doesn’t mean ignoring the challenges or pretending problems don’t exist; instead, it involves prioritizing clarity and understanding over anxiety and fear. By focusing on what we can control—our responses and attitudes—we align our thoughts with order and intention, ultimately fostering an internal environment of calmness. Picture a cluttered desk transforming into a space that invites productivity; similarly, by organizing our mental state, recognising what's within our influence and letting go of what isn't, we cultivate a serene mindset in the face of life's inevitable complexities. The surface of a pond may ripple with disturbances, but deep down, the water remains still. So too, can our minds develop a tranquil depth even amidst the ripples of life.
 <!--END_SECTION:quote-interpretation-->
 </div>
