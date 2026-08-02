@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Saturday, August 01, 2026
+Sunday, August 02, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Fame in a world like this is worthless.
+Never praise or blame people on common grounds; look to their judgements exclusively. Because that is the determining factor, which makes everyone's actions either good or bad.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Marcus Aurelius
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-In a fast-paced world dominated by social media and celebrity culture, many people chase fame as if it were the ultimate achievement. However, Marcus Aurelius reminds us that fame is often fleeting and superficial, offering little real value in the long run. Consider how trends and viral sensations come and go, with yesterday's hero quickly forgotten as today's new star emerges. Fame is often dependent on the opinions of others, which can be fickle and beyond our control. When we base our self-worth on external validation, we set ourselves up for disappointment, as the admiration of others is rarely constant and can easily fade. Instead, Stoicism encourages us to focus inward, cultivating virtues like wisdom, courage, and integrity, which provide a more stable and enduring sense of purpose. In our everyday lives, this might mean prioritizing personal growth, nurturing meaningful relationships, and finding contentment in contributing to our communities. By understanding that the pursuit of fame is ultimately worthless, we can redirect our energies towards what truly enriches our lives and the lives of those around us.
+The heart of Epictetus’ wisdom in this quote lies in understanding that true character is revealed through one’s judgments, rather than surface actions or circumstances. In everyday life, it's easy to get caught up in appearances and label people good or bad based on isolated actions or popular opinion. However, Stoicism urges us to look deeper, to examine the rationale and values guiding a person's decisions. For instance, consider a coworker who frequently disagrees with majority opinions during meetings. It might be tempting to label them as difficult or contrarian. Still, before passing judgment, it would be wise to explore their reasoning. Perhaps they have carefully considered perspectives that challenge the status quo to drive positive change within the company. On the flip side, someone who always seems agreeable and well-liked might not necessarily possess a sound moral compass. Their behavior might stem more from the desire to fit in than from well-considered values. By looking beyond actions to the underlying judgments, we align ourselves more closely with the Stoic principle of valuing wisdom and integrity over superficial measures, cultivating a more thoughtful and fair approach to understanding others.
 <!--END_SECTION:quote-interpretation-->
 </div>
