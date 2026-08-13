@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Wednesday, August 12, 2026
+Thursday, August 13, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-But learning how to live takes a whole life, and, which may surprise you more, it takes a whole life to learn how to die. So many of the finest men have put aside all.
+Our thoughts is what our life make it.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Marcus Aurelius
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Learning how to live is a lifelong journey, filled with experiences, challenges, successes, and failures that shape our understanding of existence. It requires patience, reflection, and a willingness to embrace change, knowing that each day adds a new layer to our life skills and perspective. Surprisingly, the process of understanding life is inherently tied to understanding death. Grappling with our mortality can illuminate what truly matters, encouraging us to prioritize moments of genuine connection, kindness, and integrity. Many people, realizing the brevity and unpredictability of life, choose to let go of superficial pursuits and material distractions. This idea can resonate deeply in today’s fast-paced world, where career aspirations and social status often overshadow inner peace and fulfillment. By accepting the finite nature of our time, akin to those who have set aside worldly gains for greater wisdom, we can focus our efforts on cultivating virtues like courage and compassion. This journey towards understanding both life and death enables us to live more authentically and leave a more meaningful legacy, not defined by possessions, but by the character and contributions we share with the world.
+In our daily lives, the power of thought is profound, as Marcus Aurelius suggests. The way we perceive our world directly shapes our experiences and emotions. Imagine a day when everything seems to go wrong: you spill coffee on your clothes, miss the bus, and receive critical feedback at work. If your thoughts focus solely on these negatives, the day feels overwhelming and miserable. However, by consciously directing your thoughts towards what you can learn or how you can adapt, like laughing off the coffee mishap as a minor incident or considering the feedback as an opportunity for improvement, the day transforms. This shift doesn't change the events themselves but alters how they affect your mood and demeanor. In essence, by cultivating positive and resilient thinking, you construct a life that feels more peaceful and under control, even amidst inevitable challenges. Just as an artist sees potential on a blank canvas, we can choose to see possibilities and growth instead of only obstacles, allowing us to craft a life reflective of our best thoughts.
 <!--END_SECTION:quote-interpretation-->
 </div>
