@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Friday, August 21, 2026
+Saturday, August 22, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Linger among a limited number of master thinkers, and digest their works.
+Do your best to rein in your desire. For if you desire something that isn’t within your own control, disappointment will surely follow; meanwhile, you will be neglecting the very things that are within your control that are worthy of desire.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Seneca
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-In a world teeming with endless information and opinions, Seneca encourages us to focus our attention on a select few wise thinkers and to thoroughly absorb their insights. In contemporary life, this might mean choosing a handful of books, podcasts, or influential figures whose ideas deeply resonate with us, rather than attempting to consume the overwhelming flood of content available at our fingertips. By concentrating on a limited number of sources, we can cultivate a deeper understanding and appreciation of the principles they offer, rather than skimming superficially through countless philosophies. This selective approach allows us to thoughtfully reflect on and apply these teachings to our own lives, promoting a more grounded and thoughtful existence. For instance, rather than trying to keep up with every self-help trend or latest life hack, fully engaging with the foundational ideas of a few respected authors can provide a sturdy framework for personal growth. This careful digestion of wisdom enables us to internalize and implement insights that shape our values and decisions, supporting a more meaningful, consistent path through the complexities of modern life.
+In the midst of life's chaos, the essence of Stoicism shines through the wisdom of prioritizing what lies within our sphere of influence. Imagine you yearn for a promotion at work, yet promotions often hinge on factors beyond personal control, such as company politics or unforeseen budget cuts. Focusing all desire on this outcome leads to inevitable disappointment should things not unfold as hoped. Meanwhile, avenues within one's control—such as mastering new skills, building supportive relationships, or improving work efficiency—offer fertile ground for growth and fulfillment. By redirecting desire towards these controllable aspects, you not only mitigate disappointment but also cultivate a sense of empowerment and peace. This shift of focus from external outcomes to internal development nurtures resilience, allowing you to respond more thoughtfully to whatever life presents. By concentrating on what you can influence, you transform potential setbacks into opportunities for personal progress and contentment, embodying the Stoic ideal of harmonizing your actions with the realities at hand.
 <!--END_SECTION:quote-interpretation-->
 </div>
