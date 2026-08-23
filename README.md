@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Saturday, August 22, 2026
+Sunday, August 23, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Do your best to rein in your desire. For if you desire something that isn’t within your own control, disappointment will surely follow; meanwhile, you will be neglecting the very things that are within your control that are worthy of desire.
+And thou wilt give thyself relief, if thou doest every act of thy life as if it were the last.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Epictetus
+Marcus Aurelius
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-In the midst of life's chaos, the essence of Stoicism shines through the wisdom of prioritizing what lies within our sphere of influence. Imagine you yearn for a promotion at work, yet promotions often hinge on factors beyond personal control, such as company politics or unforeseen budget cuts. Focusing all desire on this outcome leads to inevitable disappointment should things not unfold as hoped. Meanwhile, avenues within one's control—such as mastering new skills, building supportive relationships, or improving work efficiency—offer fertile ground for growth and fulfillment. By redirecting desire towards these controllable aspects, you not only mitigate disappointment but also cultivate a sense of empowerment and peace. This shift of focus from external outcomes to internal development nurtures resilience, allowing you to respond more thoughtfully to whatever life presents. By concentrating on what you can influence, you transform potential setbacks into opportunities for personal progress and contentment, embodying the Stoic ideal of harmonizing your actions with the realities at hand.
+Reflecting on the words of Marcus Aurelius, consider the profound peace that can emerge from living each moment with the awareness that it could be your last. This mindset encourages a focus on what truly matters, urging you to engage with tasks and interactions with sincerity and purpose. Imagine approaching a mundane office meeting or a simple family dinner with the same attentiveness and consideration you might if you knew it was your final opportunity to experience such moments. This doesn't mean hastily making drastic life changes or constantly reminding oneself of mortality in a morbid way, but rather fostering a present and mindful engagement in everyday activities. It invites you to prioritize genuine connections, act with integrity, and minimize unnecessary stress and distraction, naturally releasing the burdens of regret and procrastination. In our fast-paced modern world, where it's easy to be swept away by a relentless tide of obligations and technology-driven distractions, adopting such a perspective can ground you in the present, enriching your experiences and enhancing your sense of fulfillment and clarity.
 <!--END_SECTION:quote-interpretation-->
 </div>
