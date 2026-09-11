@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Thursday, September 10, 2026
+Friday, September 11, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Remember how long you have been putting off these things, and how often you have received an opportunity from the gods, and yet do not use it.
+Restrict yourself to choice and refusal; and exercise them carefully, with discipline and detachment.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Marcus Aurelius
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-We often find ourselves waiting for the perfect moment to start something, whether it’s cultivating a new habit, pursuing a passion, or making a necessary change in our lives. Marcus Aurelius reminds us that we frequently delay taking action, even when endless opportunities have presented themselves. This hesitation is often rooted in fear, procrastination, or the pursuit of perfection. Just like those who keep postponing starting a fitness journey, waiting for the “right” time, or others who delay telling loved ones how much they mean to us, believing there will always be a better occasion, we too can fall into the trap of endless waiting. Aurelius encourages us to recognize that the universe is constantly offering us chances to act, to grow, and to live according to what we value most. Rather than waiting for ideal conditions, we should embrace the opportunities graciously given to us, take the first step, and start living with intent and purpose. This approach not only propels us forward but also brings a sense of fulfillment that only comes from action and engagement with the present.
+Epictetus invites us to focus on the power of our choices and the things we decide to avoid, urging us to approach these decisions with mindfulness, self-control, and a sense of separation from emotional turbulence. In the rush of modern life, we're constantly bombarded with options and decisions—whether it’s the career path we choose, the friendships we nurture, or even the media we consume. This Stoic advice suggests that rather than being swept away by every whim or external pressure, we should practice making decisions that align with our deeper values and goals. By exercising discipline, we become more thoughtful in our responses, pausing to consider what truly benefits our growth and well-being. Detachment doesn't mean being indifferent or unfeeling; it means cultivating an inner steadiness, so that our decisions are less reactive and more reflective of our true selves. For instance, when faced with a tempting yet unhealthy habit, practicing this principle might involve calmly acknowledging the temptation, recognizing its impact on our well-being, and then choosing to refuse it in favor of a healthier option. In this way, we gradually build resilience and autonomy, honing the ability to steer our lives with clarity and purpose, regardless of the chaos that might surround us.
 <!--END_SECTION:quote-interpretation-->
 </div>
