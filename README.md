@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Friday, September 11, 2026
+Saturday, September 12, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Restrict yourself to choice and refusal; and exercise them carefully, with discipline and detachment.
+It is the sign of a weak mind to be unable to bear wealth.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Epictetus
+Seneca
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Epictetus invites us to focus on the power of our choices and the things we decide to avoid, urging us to approach these decisions with mindfulness, self-control, and a sense of separation from emotional turbulence. In the rush of modern life, we're constantly bombarded with options and decisions—whether it’s the career path we choose, the friendships we nurture, or even the media we consume. This Stoic advice suggests that rather than being swept away by every whim or external pressure, we should practice making decisions that align with our deeper values and goals. By exercising discipline, we become more thoughtful in our responses, pausing to consider what truly benefits our growth and well-being. Detachment doesn't mean being indifferent or unfeeling; it means cultivating an inner steadiness, so that our decisions are less reactive and more reflective of our true selves. For instance, when faced with a tempting yet unhealthy habit, practicing this principle might involve calmly acknowledging the temptation, recognizing its impact on our well-being, and then choosing to refuse it in favor of a healthier option. In this way, we gradually build resilience and autonomy, honing the ability to steer our lives with clarity and purpose, regardless of the chaos that might surround us.
+Seneca's insight touches on the complex relationship between wealth and character. In today's world, being swept away by sudden success or affluence can reveal one's inability to manage the responsibilities and ethical considerations that come with it. When someone suddenly gains wealth, they often face new pressures and temptations that can lead to greed, arrogance, or a misguided sense of superiority. These reactions indicate a lack of inner strength and awareness. A robust and grounded mind, however, approaches wealth with equilibrium, viewing it as a tool rather than a source of identity or happiness. For example, a financially successful person might choose to donate to charity or invest in community projects because they understand money's potential to create positive change. They remain humble and generous, using their resources to enrich not just their own life but those of others. This perspective aligns with Stoic teachings, which emphasize virtue and wisdom as the true measures of a prosperous life, rather than the external markers of wealth. By cultivating a stable and resilient mindset, individuals can handle whatever fortune brings without being overwhelmed or corrupted by it, maintaining their ethical integrity and inner peace.
 <!--END_SECTION:quote-interpretation-->
 </div>
