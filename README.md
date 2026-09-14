@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Sunday, September 13, 2026
+Monday, September 14, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Always remember what is your own and what is not, and you’ll never be troubled.
+Wealth consists not in having great possessions, but in having few wants.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
 Epictetus
@@ -13,6 +13,6 @@ Epictetus
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-In the fast-paced world where we constantly juggle responsibilities, ambitions, and interactions with others, keeping a clear distinction between what you can control and what you cannot is both a source of peace and strength. This understanding roots itself in recognizing that our thoughts, choices, actions, and responses are within our domain of control. Conversely, everything outside of that—other people’s opinions, the outcomes of events, or the weather—is not ours to dictate. Imagine preparing for a crucial job interview: you can research the company, practice your responses, and dress appropriately—those are within your control. However, the decision of the interviewer, the questions you'll be asked, and the exact shape of the traffic on your way to the interview are beyond your capacity to influence. By focusing your energy and attention on what you can affect and accepting the rest as it is, you release yourself from needless anxiety and frustration. This mindful separation provides clarity, allowing for serenity in the face of what might otherwise be overwhelming chaos. By adopting this perspective, you cultivate resilience and inner stability in an unpredictable world.
+Epictetus reminds us that true wealth is not measured by the abundance of our material possessions but by the simplicity of our desires. In today’s world, it’s easy to believe that happiness comes from acquiring more—more gadgets, more stylish clothes, or a fancier car. However, this quest often leads to endless cycles of wanting and dissatisfaction. Consider someone who constantly upgrades their phone every time a new model is launched. They might feel a temporary thrill, but it's soon replaced by the urge to upgrade again. Instead, if they focus on appreciating what they already have and reduce their desire for the latest and greatest, they find lasting contentment. By simplifying our wants and learning to appreciate the present, including relationships, experiences, and small pleasures, we create a richer, more fulfilling life. The fewer desires we harbor, the more room we have for gratitude and peace of mind, allowing us to, in essence, live a profoundly wealthy life.
 <!--END_SECTION:quote-interpretation-->
 </div>
