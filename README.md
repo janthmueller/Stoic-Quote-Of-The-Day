@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Thursday, September 17, 2026
+Friday, September 18, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Nothing is more dishonourable than an old man, heavy with years, who has no other evidence of his having lived long except his age.
+What man can you show me who places any value on his time, who reckons the worth of each day, who understands that he is dying daily?
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
 Seneca
@@ -13,6 +13,6 @@ Seneca
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-In life, it's not the mere accumulation of years that should be our measure of success or wisdom, but rather the depth of experiences and lessons gained throughout those years. Imagine an elderly person who has spent decades simply going through the motions, like someone who clocks in and out of the same unfulfilling job, only to realize on retiring that they have nothing meaningful to show for it. Seneca's reflection encourages us to cultivate a life rich with purpose and reflection, so that as we grow older, we are not just adding candles to a birthday cake, but accumulating stories and insights that we can share with those around us. Aging becomes honorable when it combines longevity with a legacy of learning, growth, and contribution. In today’s world, this might mean actively engaging with our communities, pursuing passions that ignite curiosity, or finding ways to refine our character over time, so that age becomes a symbol not only of survival but of a life well-lived and well-learned.
+In contemplating the worth of each day, Seneca invites us to recognize the fleeting nature of time and the inevitability of our mortality. This isn't meant to be morbid but rather a call to live with intention and mindfulness. Every day we wake up, we are gifted with a finite slice of time that should not be squandered. In our fast-paced world filled with constant distractions—from endless social media scrolling to mindless Netflix marathons—we often treat time as an unlimited resource, forgetting its true value. Imagine treating your days like a precious budget: you wouldn't spend money haphazardly without considering the return on investment. Similarly, we should invest our time in activities and relationships that bring us fulfillment and growth. Recognizing that we are "dying daily" is a gentle reminder to prioritize what truly matters, be it nurturing relationships, pursuing passions, or contributing positively to our communities. By placing value on our time, we align our actions with our highest values and gain a deeper appreciation for life’s simple yet profound moments. As we come to terms with the idea that each day is a stepping stone towards the end, we are encouraged to make choices that mirror our true intentions, creating a life of purpose and fulfillment in the time we have.
 <!--END_SECTION:quote-interpretation-->
 </div>
