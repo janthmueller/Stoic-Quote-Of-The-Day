@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Thursday, October 22, 2026
+Friday, October 23, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Whatever happens to you has been waiting to happen since the beginning of time. The twining strands of fate wove both of them together: your own existence and the things that happen to you.
+Nothing that goes on in anyone else’s mind can harm you.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
 Marcus Aurelius
@@ -13,6 +13,6 @@ Marcus Aurelius
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Marcus Aurelius invites us to view the unfolding events of our lives as threads woven into the vast tapestry of existence, crafted long before we took our first breath. This perspective encourages acceptance of life's unpredictable nature, emphasizing that our experiences—be they joys or challenges—are intricately linked to the grander design of the universe. In today's world, this concept can be particularly liberating amidst the stresses of a demanding job or the unpredictability of personal relationships. Imagine facing a sudden career change or a dissolved friendship: rather than resisting or lamenting these shifts, one might instead find peace in the understanding that these events have always been part of their unique path. This doesn't imply passivity but rather a graceful acknowledgment of life's flow, fostering resilience and a deeper sense of purpose. Through this lens, every moment becomes a necessary part of the whole, inviting us to engage fully with life, trusting that there's a reason behind the tapestry being woven every day.
+In the bustling world today, it is easy to feel weighed down by the judgments, criticisms, or opinions of others. Marcus Aurelius reminds us that the true fortress of peace is built within our own minds. Other people's thoughts and perceptions, though they might seem significant, possess no real power to affect our inner state unless we allow them to. Imagine someone at work criticizing your efforts on a project. While their words may initially sting, they do not have the inherent ability to diminish your self-worth or dictate your emotions. Instead, you have the choice to reflect on feedback and let go of unwarranted negative energy. By focusing on what we can control—our reactions and perceptions—we create a mental space that remains untroubled by external evaluations. In navigating social media's endless comparisons or the constant chatter of gossip, this wisdom encourages us to cultivate resilience, finding serenity in knowing that our value and peace stem from within, untouched by the transient winds of others' thoughts.
 <!--END_SECTION:quote-interpretation-->
 </div>
