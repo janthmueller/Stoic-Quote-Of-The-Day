@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Tuesday, November 03, 2026
+Wednesday, November 04, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-But he who bestows all of his time on his own needs, who plans out every day as if it were his last, neither longs for nor fears the morrow.
+We are mad, not only individually but nationally. We check manslaughter and isolated murders, but what of war and the much-vaunted crime of slaughtering whole peoples?
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
 Seneca
@@ -13,6 +13,6 @@ Seneca
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Embracing each day as if it were your last encourages a profound appreciation for the present moment, liberating you from both the burdens of regret and the anxieties of the future. This mindset invites a life centered on what truly matters to you, focusing on fulfilling your needs and desires without being distracted by unnecessary worries about what has been or what may come. In our fast-paced and often stressful modern lives, we might find ourselves caught up in an endless cycle of trying to achieve more, acquire more, or plan meticulously for an uncertain future. However, by investing our time fully in today, we cultivate a balanced sense of contentment and focus. For instance, when you engage meaningfully with your family at dinner without the interruption of tomorrow's tasks looming over your mind, you experience the joy and satisfaction of being fully present. This doesn't mean neglecting necessary preparations for the future but prioritizing your current wellbeing and purpose over futile anxiety about unpredictable outcomes. By tuning our energies to today’s needs, we neither dwell in past disappointments nor tremble at what tomorrow might bring, finding instead a peaceful clarity in our daily lives.
+Seneca challenges us to reflect on the paradox of condoning violence on a grand scale while condemning it in personal acts, shedding light on a collective madness that permeates society. In our daily lives, we fiercely oppose acts of individual violence, and rightly so, yet often become numbed to the devastation of war, accepting it as an inevitable part of our global existence. This inconsistency suggests a deeper moral dissonance in our communal psyche, where acts of aggression are often glorified under the guise of patriotism or security. Consider how, in today's media-driven world, news about local crimes fills us with immediate outrage and calls for justice, while reports of distant conflicts are met with unsettling normalcy or even apathy. This desensitization speaks to a national, and even global, state of madness that Seneca pointed out centuries ago, indicating that our progress in societal values may not be as advanced as imagined. Challenging this disparity invites us to foster a deeper empathy and principled consistency that transcends borders, urging us to critically evaluate and transform the broader cultural narratives that justify widespread violence. By doing so, we can aim to align our societal ethics with the same moral rigor we apply to individual actions, aspiring towards a peace that honors the sanctity of all human life.
 <!--END_SECTION:quote-interpretation-->
 </div>
