@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Thursday, November 05, 2026
+Friday, November 06, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-The philosopher's school, ye men, is a surgery: you ought not to go out of it with pleasure, but with pain. For you are not in sound health when you enter.
+If any man despises me, that is his problem. My only concern is not doing or saying anything deserving of contempt.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Epictetus
+Marcus Aurelius
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Entering a philosopher's school is akin to stepping into a place of healing, much like a surgery where profound transformations occur. Here, the process is not always pleasant; it demands introspection and the willingness to face discomfort, much like a surgical procedure that removes what is unhealthy to restore well-being. In our daily lives, this can be seen when we engage in self-reflection or seek personal development. It's not always an enjoyable process to examine our flaws, challenge our ingrained habits, or confront uncomfortable truths about ourselves. For instance, acknowledging and addressing a pattern of procrastination or resentment may involve admitting personal shortcomings, which can stir feelings of vulnerability or unease. However, this discomfort is a vital part of the healing journey, much like the post-surgery pain that signifies recovery and progress. In the end, emerging from this experience, though initially painful, signifies growth and a closer alignment with true well-being and virtue. Embracing this discomfort as a necessary part of genuine transformation allows us to break free from old constraints and step forward with newfound clarity and strength.
+When others scorn or belittle us, the essence of their judgment reflects more on them than on us, and it is wise to remember that their words or actions stem from their own perspectives or struggles. Our primary focus should remain steadfast on our own character and behavior, ensuring that we live with integrity and do nothing unworthy of respect. In today’s world, this can be applied to scenarios like social media interactions where criticism abounds. Instead of getting caught up in negative comments or feeling invalidated, we should concentrate on our intentions and the values guiding our actions. Whether at work, in relationships, or online, maintaining a steadfast appreciation of our own principles allows us to brush aside negativity. What truly matters is how authentically we show up each day, not the external judgments we might encounter. Letting go of the need for others’ approval frees us to live wholesomely, aligning our actions with our own standards of dignity and respect.
 <!--END_SECTION:quote-interpretation-->
 </div>
