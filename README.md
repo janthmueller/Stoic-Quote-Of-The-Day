@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Saturday, November 14, 2026
+Sunday, November 15, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Forget everything else. Keep hold of this alone and remember it: Each of us lives only now, this brief instant. The rest has been lived already, or is impossible to see. The span we live is small—small.
+We are at the mercy of whoever wields authority over the things we either desire or detest. If you would be free, then, do not wish to have, or avoid, things that other people control, because then you must serve as their slave.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Marcus Aurelius
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-In life, it's easy to get caught up in regrets about the past or anxieties about the future. Yet, by focusing solely on this very moment, we allow ourselves to experience the richness that the present offers. Imagine how often we let moments slip away while replaying past conversations in our minds, or worrying about meetings and deadlines yet to come. These distractions can prevent us from truly being present with our children, partners, or even ourselves. Marcus Aurelius reminds us that the past has already unfolded and is unchangeable, while the future remains uncertain and beyond our immediate grasp. What we have is this moment—a small, fleeting opportunity to embrace life. By anchoring ourselves in the now, we can't help but find a clearer perspective, where our worries fade and gratitude emerges. It’s about appreciating this limited stretch of time we call life and making the most of it, like enjoying an unexpected laugh with a loved one or savoring a quiet cup of tea. This present moment is the only reality we truly inhabit, and it’s where our potential for growth and joy primarily resides.
+In life, our well-being can be significantly influenced by external factors if we tether our happiness or discomfort to things beyond our control. When we desire possessions, social approval, or financial success—and when we fear the loss of these—others who hold sway over these external aspects essentially gain power over us. This possession of power can restrict our freedom, much like being beholden to a master. To truly be free, it's important to focus on what is within our control—our own thoughts, emotions, and responses. Consider a modern workplace scenario: if someone is overly concerned with climbing the corporate ladder or avoiding professional failure, they might find themselves excessively influenced by bosses or broader organizational changes. This dependency can lead to stress and compromise one's values just to gain favor or avoid disfavor. By cultivating indifference to these external validations and focusing instead on personal development and ethical conduct, one can navigate life with greater peace and autonomy, reclaiming power over one's own experience regardless of external circumstances.
 <!--END_SECTION:quote-interpretation-->
 </div>
