@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Sunday, November 15, 2026
+Monday, November 16, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-We are at the mercy of whoever wields authority over the things we either desire or detest. If you would be free, then, do not wish to have, or avoid, things that other people control, because then you must serve as their slave.
+So I have never believed that there was any genuine good in the things which everyone prays for; what is more, I have found them empty and daubed with showy and deceptive colours, with nothing inside to match their appearance.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Epictetus
+Seneca
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-In life, our well-being can be significantly influenced by external factors if we tether our happiness or discomfort to things beyond our control. When we desire possessions, social approval, or financial success—and when we fear the loss of these—others who hold sway over these external aspects essentially gain power over us. This possession of power can restrict our freedom, much like being beholden to a master. To truly be free, it's important to focus on what is within our control—our own thoughts, emotions, and responses. Consider a modern workplace scenario: if someone is overly concerned with climbing the corporate ladder or avoiding professional failure, they might find themselves excessively influenced by bosses or broader organizational changes. This dependency can lead to stress and compromise one's values just to gain favor or avoid disfavor. By cultivating indifference to these external validations and focusing instead on personal development and ethical conduct, one can navigate life with greater peace and autonomy, reclaiming power over one's own experience regardless of external circumstances.
+Seneca invites us to reevaluate the things people often yearn for, such as wealth, power, or fame, because these are often superficial and lack true substance. In our modern world, this is akin to the allure of social media fame or the pursuit of luxury items. These goals can be dazzling, yet they offer little genuine fulfillment once achieved. Beneath their glossy exterior lies emptiness, as they rarely contribute to our inner peace or personal growth. Instead, authentic happiness is found in virtues like wisdom, integrity, and kindness, which offer more meaningful and lasting satisfaction. By shifting our focus from outward appearances to internal values, we cultivate a sense of contentment that isn't dependent on fleeting or showy rewards. This perspective encourages us to prioritize what genuinely enhances our well-being and ignore the deceptive attractions that only dazzle on the surface.
 <!--END_SECTION:quote-interpretation-->
 </div>
