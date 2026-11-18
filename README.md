@@ -1,18 +1,18 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Tuesday, November 17, 2026
+Wednesday, November 18, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-Your mind will take on the character of your most frequent thoughts: souls are dyed by thoughts.
+Let silence be your general rule; or say only what is necessary and in few words.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
-Marcus Aurelius
+Epictetus
 <!--END_SECTION:quote-author--></strong>
 </p>
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-The idea conveyed by Marcus Aurelius is that our thoughts shape who we become, much like how dye colors cloth. If we regularly focus on negative, anxious, or self-defeating thoughts, these patterns can become part of our character, influencing how we perceive the world and how we interact within it. Conversely, nurturing positive, hopeful, and constructive thoughts can lead to a brighter, more resilient mindset. Imagine your mind as a garden: whatever seeds you plant and regularly tend to will grow, whether they're weeds of doubt or flowers of confidence. In contemporary life, this concept highlights the importance of mindful awareness of our inner dialogues. For example, someone who constantly worries about future uncertainties might develop a habit of fear, impacting their ability to enjoy the present. Alternatively, by consciously thinking about what they're grateful for or opportunities to grow, they can cultivate a mindset of positivity and resilience. This parallels building a mental filter through which experiences are viewed, essentially determining how we react and adapt to life's challenges. By understanding that our repeated thoughts deeply influence our character, we gain the power to deliberately craft a mindset that supports our well-being and progress.
+Embracing silence or speaking only when necessary allows us to focus on what truly matters in our interactions and communications. In a world where we're often bombarded with endless chatter—whether through social media, emails, or non-stop news cycles—Epictetus guides us toward finding strength and wisdom in silence. By choosing our words with intention and speaking less, we can create a space for listening and deeper understanding. This isn't about withholding thoughts but rather valuing quality over quantity in our conversations. In our modern lives, this could play out as being more mindful and present when interacting with loved ones, ensuring that our words are meaningful and not just noise. It also means avoiding the impulse to speak just to fill the void or to respond hurriedly without reflection, which allows us to engage more genuinely and avoid misunderstandings. Exercising restraint in speech nurtures our ability to think before we speak, fostering a more deliberate and considered form of communication. In doing this, we can reduce unnecessary conflicts and cultivate more meaningful relationships, echoing the timeless stoic pursuit of wisdom through thoughtful action.
 <!--END_SECTION:quote-interpretation-->
 </div>
