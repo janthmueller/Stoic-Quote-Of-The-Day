@@ -1,10 +1,10 @@
 <h1 align="center">Stoic Quote of the Day</h1>
 <p align="center"><em><!--START_SECTION:current-date-->
-Wednesday, November 25, 2026
+Thursday, November 26, 2026
 <!--END_SECTION:current-date--></em></p>
 <p align="center">
     <em><!--START_SECTION:quote-text-->
-While we wait for life, life passes.
+Furthermore, if you will pay close heed to the problem, you will find that the largest portion of our life passes while we are doing ill, a goodly share while we are doing nothing, and the whole while we are doing that which is not to the purpose.
 <!--END_SECTION:quote-text--></em><br>
     <strong>— <!--START_SECTION:quote-author-->
 Seneca
@@ -13,6 +13,6 @@ Seneca
 
 <div align="center" style="max-width:600px;margin:0 auto;">
 <!--START_SECTION:quote-interpretation-->
-Seneca's insight captures the essence of how often we postpone living authentically by fixating on an ideal future or better moment to come, potentially overlooking the life unfolding right now. In the hustle of modern life, it's common to defer happiness or fulfillment to a future date—waiting for the next job promotion, the next vacation, or even a better version of ourselves—believing that real life begins then. We might find ourselves constantly planning, preparing, or dreaming, all the while life quietly ticks by. Imagine sitting in traffic, lost in thoughts of where you'd rather be, not noticing the music playing on the radio or the sunset hues in the sky. Seneca's words nudge us to engage with the present, inviting us to appreciate and respond to life as it occurs, rather than merely waiting for a more perfect moment. When we finally pay attention to the everyday joys that surround us—a conversation shared, a book read, a walk taken—we realize that these moments are not interruptions to be endured on the way to "real living," but rather they are life itself flourishing in the now.
+Seneca's insight highlights how much of our lives can be unintentionally wasted if we're not mindful of our actions and priorities. In our fast-paced world, it's easy to get caught up in activities that feel urgent but lack long-term significance, like scrolling through social media or engaging in trifling tasks that don't fulfill our deeper goals. While we may assume we're busy or productive, this busyness is often misdirected or negligible, leading to feelings of stagnation or dissatisfaction. Seneca urges us to reflect on how we spend our time, recognizing when we're engaged in damaging behaviors or when we're simply letting time slip by without purpose. By consciously choosing activities that align with our values and aspirations, we can ensure that our finite time is devoted to meaningful pursuits. Imagine a workday filled with endless emails and superficial meetings: although such a routine may appear industrious, it might not contribute to genuine personal or professional growth. Instead, deliberately focusing on actions that hold true significance can lead to a more fulfilling life, allowing us to experience the satisfaction that arises from working towards goals that truly matter to us.
 <!--END_SECTION:quote-interpretation-->
 </div>
